@@ -1,0 +1,5812 @@
+[
+  {
+    "word": "Abate",
+    "definition": "v. to become less active, less intense, or less in amount",
+    "example": "As I began my speech, my feelings of nervousness quickly abated.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Abrupt",
+    "definition": "adj. Sudden and unexpected.",
+    "example": "His abrupt departure surprised everyone.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Abstract",
+    "definition": "adj. existing purely in the mind; not representing actual reality",
+    "example": "Julie had trouble understanding the appeal of the abstract painting.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Abysmal",
+    "definition": "adj. extremely bad",
+    "example": "I got an abysmal grade on my research paper!",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Acceptable",
+    "definition": "adj. Satisfactory or permissible.",
+    "example": "The teacher deemed Sara's late assignment acceptable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Accidental",
+    "definition": "adj. Happening by chance.",
+    "example": "The oil spill was purely accidental.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Accommodate",
+    "definition": "v. To provide space or make adjustments.",
+    "example": "The Grand Hotel can accommodate up to 500 guests.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Accuracy",
+    "definition": "n. The quality of being correct or precise.",
+    "example": "The accuracy of the intern's report was impressive.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Acknowledge",
+    "definition": "v. To recognize or admit the truth.",
+    "example": "She refused to acknowledge her mistake.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Acquired",
+    "definition": "adj. Gained through effort or experience.",
+    "example": "Edmund had acquired a taste for fine wine.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Adapt",
+    "definition": "v. To adjust to new conditions.",
+    "example": "Newly-released animals generally adapt to their environments over time.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Adept",
+    "definition": "adj. having knowledge or skill (usu. in a particular area)",
+    "example": "Beth loves playing the piano, but she’s especially adept at the violin.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Adequate",
+    "definition": "adj. having sufficient qualifications to meet a specific task or purpose",
+    "example": "Though his resume was adequate,the company doubted whether he’d be a good fit.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Adhere",
+    "definition": "v. To stick to or follow closely.",
+    "example": "You must adhere to the rules if you don't want to get in trouble.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Adjust",
+    "definition": "v. To modify or change slightly.",
+    "example": "He had to adjust his seat for comfort.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Admire",
+    "definition": "v. To respect or look up to.",
+    "example": "I admire my mother's dedication to her work.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Advantageous",
+    "definition": "adj. Beneficial or useful.",
+    "example": "Speaking multiple languages is advantageous.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Advent",
+    "definition": "n. the arrival or creation of something",
+    "example": "The world has never been the same since the advent of the light bulb.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Advise",
+    "definition": "v. To recommend or give guidance.",
+    "example": "I advise you to study for the exam.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Aggravate",
+    "definition": "v. To worsen or intensify.",
+    "example": "Scratching the rash will only aggravate it.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Aggressive",
+    "definition": "adj. Forceful or overly assertive.",
+    "example": "The man's aggressive tone made everyone uneasy.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Allude",
+    "definition": "v. to make a secretive mention of something",
+    "example": "She alluded to the problem at hand but didn’t say anything more about it.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Ambiguity",
+    "definition": "n. Uncertainty or multiple interpretations.",
+    "example": "The ambiguity in his vague statement caused confusion.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Ambivalence",
+    "definition": "n. Mixed or conflicting feelings.",
+    "example": "Jessie felt ambivalence about moving to a new city.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Ameliorate",
+    "definition": "v. To improve or make better.",
+    "example": "The new policy aims to ameliorate working conditions for all employees.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Amplify",
+    "definition": "v. To increase in size or effect.",
+    "example": "The microphone will amplify your voice.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Amusing",
+    "definition": "adj. Entertaining or humorous.",
+    "example": "Jason's joke was quite amusing.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Analogous",
+    "definition": "adj. similar but not identical",
+    "example": "Green onions are considered analogous to spring onions.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Annotate",
+    "definition": "v. To add notes or comments.",
+    "example": "Please annotate the medical text with your observations.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Announce",
+    "definition": "v. To make a public statement.",
+    "example": "The CEO will announce the new policy tomorrow.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Anomaly",
+    "definition": "n. something different from the norm",
+    "example": "This result is an anomaly and very rarely happens.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Antagonistic",
+    "definition": "adj. Showing hostility or opposition.",
+    "example": "His antagonistic behavior created tension at work.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Antecedent",
+    "definition": "n. A preceding event or condition.",
+    "example": "The antecedent to the war was political unrest.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Anticipate",
+    "definition": "v. To expect or predict.",
+    "example": "Does the weatherman anticipate a rise in temperatures next week?",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Antipathy",
+    "definition": "n. a strong feeling of dislike",
+    "example": "Her antipathy toward the professor was obvious: she rolled her eyes whenever he entered the classroom.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Apex",
+    "definition": "n. the highest point of something",
+    "example": "The spring play was the apex of our school year.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Appropriate",
+    "definition": "adj. Suitable for a specific situation.",
+    "example": "Lily's velvet dress was appropriate for the formal occasion.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Approximate",
+    "definition": "adj. Nearly accurate or close to.",
+    "example": "The approximate cost is $50.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Arcane",
+    "definition": "adj. Mysterious or known by few.",
+    "example": "The ancient book contained arcane knowledge.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Arduous",
+    "definition": "adj. Difficult and requiring effort.",
+    "example": "The steep hike up the mountain was arduous.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Assemble",
+    "definition": "v. To gather or put together.",
+    "example": "We need to assemble the bed if we want a place to sleep tonight.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Austere",
+    "definition": "adj. extremely plain\nadj. stern and forbidding\nadj. relating to self-denial",
+    "example": "He lived in a small, austere cabin in the middle of the woods.\nMy boss had an austere expression on her face.\nAn austere lifestyle, like that of monks, isn’t for everybody.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Avoid",
+    "definition": "v. To stay away from or prevent.",
+    "example": "Mara hates fighting, so she always tries to avoid conflict.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Beneficial",
+    "definition": "adj. Producing good results.",
+    "example": "A balanced diet is beneficial to your health.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Benevolent",
+    "definition": "adj. kind, generous",
+    "example": "Many cultures believe in benevolentspirits.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Bold",
+    "definition": "adj. Courageous or striking.",
+    "example": "Elsie made a bold move by quitting her job.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Borrow",
+    "definition": "v. To take temporarily.",
+    "example": "Libraries will let you borrow books for several weeks.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Buttress",
+    "definition": "v. To support or strengthen.",
+    "example": "The evidence will buttress his argument.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Bypass",
+    "definition": "v. To go around or avoid.",
+    "example": "We took a shortcut to bypass traffic.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Calibrate",
+    "definition": "v. To adjust for precision.",
+    "example": "The scientist had to calibrate the instrument to ensure his measurements were accurate.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Candid",
+    "definition": "adj. direct, blunt",
+    "example": "Josh is candid about his desire to become an actor.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Carelessly",
+    "definition": "adv. Without caution.",
+    "example": "He carelessly left his keys on the bus.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Catastrophic",
+    "definition": "adj. Disastrous or causing great damage.",
+    "example": "The catastrophic hurricane destroyed dozens of homes.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Cause",
+    "definition": "n. A reason for an action or event.",
+    "example": "The fire's cause is still unknown.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Characterization",
+    "definition": "n. The way a character is described.",
+    "example": "The novel's characterization was deep and complex.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Circumvent",
+    "definition": "v. To find a way around.",
+    "example": "They found a loophole to circumvent the rule.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Coincidence",
+    "definition": "n. A surprising and unexpected event.",
+    "example": "Meeting my neighbor at the airport was a coincidence.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Collaboration",
+    "definition": "n. Working together on a task.",
+    "example": "The scientists' collaboration led to a breakthrough.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Commercialization",
+    "definition": "n. The process of making something a business.",
+    "example": "The commercialization of the product increased sales.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Committed",
+    "definition": "adj. Dedicated to a cause or task.",
+    "example": "Ava is committed to her studies and always wants top grades.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Common",
+    "definition": "adj. Occurring frequently or shared.",
+    "example": "It's very common for students to feel stressed before exams.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Compelling",
+    "definition": "adj. Captivating or persuasive.",
+    "example": "The debater gave a compellingargument.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Competent",
+    "definition": "adj. Having the necessary ability or skill.",
+    "example": "Noah has worked at this job for a long time and is a competentengineer.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Complementary",
+    "definition": "adj. Enhancing or completing another.",
+    "example": "The artist and the engineer have skills that are complementary in the project.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Complexity",
+    "definition": "n. The state of being intricate or complicated.",
+    "example": "The complexity of the 1,000 piece puzzle made it challenging.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Compose",
+    "definition": "v. To create or write.",
+    "example": "Jordan plans to compose a new symphony.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Compound",
+    "definition": "v. To intensify or combine.",
+    "example": "The traffic was compounded by bad weather.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Comprise",
+    "definition": "v. To consist of or include.",
+    "example": "The book comprises ten chapters.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Conceal",
+    "definition": "v. To hide or keep secret.",
+    "example": "Luca tried to conceal his disappointment.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Concede",
+    "definition": "v. To admit or yield.",
+    "example": "She conceded that she was wrong during the argument.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Conceptualize",
+    "definition": "v. To form an idea or concept.",
+    "example": "In this lab, scientists conceptualizenew theories on viruses.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Concerning",
+    "definition": "adj. Causing worry or distress.",
+    "example": "The news about the approaching hurricane is quite concerning.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Condition",
+    "definition": "n. The state of something.",
+    "example": "The car I bought is in excellent condition.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Confident",
+    "definition": "adj. Feeling sure or self-assured.",
+    "example": "Michael Jordan is confident in his abilities as a basketball player.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Conflated",
+    "definition": "adj. Combined in a misleading way.",
+    "example": "The two issues were conflated in the argument.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Conform",
+    "definition": "v. To comply with rules or expectations.",
+    "example": "The alternative rocker refuses to conform to societal norms.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Consensus",
+    "definition": "n. General agreement.",
+    "example": "The team finally reached a consensus on the decision.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Consistent",
+    "definition": "adj. Acting in the same way over time.",
+    "example": "My grandmother's knitting is always consistent in quality.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Conspicuous",
+    "definition": "adj. Easily noticed or standing out.",
+    "example": "Veronica's red dress was conspicuous in the crowd.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Constant",
+    "definition": "adj. Occurring continuously.",
+    "example": "The criminal lived in constant fear that he'd be found out.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Contentious",
+    "definition": "adj. Causing disagreement or debate.",
+    "example": "Politics are highly contentious these days.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Contingent",
+    "definition": "adj. Dependent on something else.",
+    "example": "Our family ski trip is contingent onthe weather.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Contradict",
+    "definition": "v. to be in contrast with",
+    "example": "The camera footage contradicts his alibi.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Contrived",
+    "definition": "adj. Artificial or overly planned.",
+    "example": "The movie's plot felt contrived and unrealistic.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Controversial",
+    "definition": "adj. Causing public disagreement.",
+    "example": "The judge's decision to free the criminal was highly controversial.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Cordially",
+    "definition": "adv. In a warm or friendly manner.",
+    "example": "The two old friends greeted each other cordially.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Corroborate",
+    "definition": "v. to provide evidence for; to back up (a claim)",
+    "example": "The note signed by her father corroborates her claim that she was absent from class that day.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Costly",
+    "definition": "adj. Expensive or requiring sacrifice.",
+    "example": "The mistake was a costly one and caused the company to go bankrupt.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Counteract",
+    "definition": "v. to work in opposition to",
+    "example": "This ingredient seems to counteractthe other ones.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Critical",
+    "definition": "adj. Expressing analysis or judgment.",
+    "example": "The review was highly critical of the film.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Criticize",
+    "definition": "v. To express disapproval.",
+    "example": "My father tends to criticize others harshly.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Deceptive",
+    "definition": "adj. Misleading or dishonest.",
+    "example": "The advertisement was deceptive in its claims of weight loss.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Deciding",
+    "definition": "adj. Determining or influencing an outcome.",
+    "example": "The final goal was the deciding factor in the match.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Decisive",
+    "definition": "adj. Conclusive or firm.",
+    "example": "My boss's decisive leadership helped solve our company's crisis.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Deficient",
+    "definition": "adj. not enough in degree or amount",
+    "example": "I feel as though the sources for my paper are deficient.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Defunct",
+    "definition": "adj. No longer existing or functional.",
+    "example": "After people stopped using fax machines, the fax company became defunct.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Delegate",
+    "definition": "v. To assign tasks or authority to others.",
+    "example": "A good leader knows how to delegate responsibilities.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Deliberation",
+    "definition": "n. Careful consideration or discussion.",
+    "example": "After much deliberation, they made their decision.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Delicate",
+    "definition": "adj. Fragile or requiring careful handling.",
+    "example": "The delicate glass sculpture broke easily.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Demarcate",
+    "definition": "v. To set boundaries or distinguish.",
+    "example": "The Tornio river demarcates the border between Sweden and Finland.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Derived",
+    "definition": "adj. Obtained or developed from a source.",
+    "example": "The word \"aqua\" is derived from Latin.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Despise",
+    "definition": "v. To strongly dislike or look down upon.",
+    "example": "The judge despises dishonesty.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Desultory",
+    "definition": "adj. Lacking a clear plan or enthusiasm.",
+    "example": "The tired boy's desultory efforts did not impress the coach.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Determine",
+    "definition": "v. To establish or decide.",
+    "example": "The final exam will determine your grade.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Deviate",
+    "definition": "v. To move away from a set path or norm.",
+    "example": "When the new evidence was uncovered the lawyer deviated from the original plan.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Devise",
+    "definition": "v. to come up with (a plan)",
+    "example": "Lana devised a plan to make herself famous.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Diminish",
+    "definition": "v. To decrease in size or importance.",
+    "example": "The politician's influence has diminished over time.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Directed",
+    "definition": "adj. Managed or guided.",
+    "example": "This new film was directed by a renowned artist.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Disagreement",
+    "definition": "n. A difference of opinion.",
+    "example": "An intense disagreement arose over the contract terms.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Disastrous",
+    "definition": "adj. Causing great harm or failure.",
+    "example": "The earthquake had disastrousconsequences for the island.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Disconcerting",
+    "definition": "adj. Causing discomfort or confusion.",
+    "example": "My girlfriend's sudden change in behavior is disconcerting.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Discord",
+    "definition": "n. disagreement",
+    "example": "Disputes over money caused intense discord in the family.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Discount",
+    "definition": "v. To disregard or reduce in value.",
+    "example": "The teacher discounted his students' concerns.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Discourage",
+    "definition": "v. To dissuade or deter.",
+    "example": "Luna tried to discourage her brother from moving out of the house.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Discretion",
+    "definition": "n. The ability to make responsible choices.",
+    "example": "The detective handled the matter with great discretion.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Disengage",
+    "definition": "v. To separate or withdraw.",
+    "example": "I was exhausted, so I tried to disengage from the argument.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Dismiss",
+    "definition": "v. To reject or send away.",
+    "example": "The teacher dismissed the idea to end class early.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Disorienting",
+    "definition": "adj. Causing confusion or loss of direction.",
+    "example": "The vast corn maze was disorienting.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Disparage",
+    "definition": "v. To belittle or speak negatively about.",
+    "example": "The politician disparaged his opponent's ideas on tax cuts.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Disparate",
+    "definition": "adj. Essentially different or unconnected.",
+    "example": "Many European countries have disparate Christmas traditions.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Dispute",
+    "definition": "n. A disagreement or argument.",
+    "example": "The neighbors had a dispute over the new fence.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Distinct",
+    "definition": "adj. Clearly different or separate.",
+    "example": "My twin sons have distinctpersonalities.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Distract",
+    "definition": "v. To divert attention.",
+    "example": "The rattling noise distracted Javi from his work.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Distressed",
+    "definition": "adj. Suffering from anxiety or pain.",
+    "example": "The woman looked distressed after the doctor's call.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Diverge",
+    "definition": "v. To move apart or differ.",
+    "example": "My parents' opinions on politics began to diverge as they grew older.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Diverse",
+    "definition": "adj. Showing variety or differences.",
+    "example": "New York City has a diversepopulation.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Dominance",
+    "definition": "n. The state of being in control or superior.",
+    "example": "The company's dominance in the market is evident.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Dormant",
+    "definition": "adj. Inactive but capable of becoming active.",
+    "example": "The volcano beneath Mount Fuji has been dormant for centuries.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Dynamic",
+    "definition": "adj. Constantly changing or energetic.",
+    "example": "My coworker is a dynamic speaker who commands attention wherever she goes.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Earnest",
+    "definition": "adj. Serious and sincere.",
+    "example": "He felt terrible about breaking the mirror and made an earnestapology.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Eclipse",
+    "definition": "v. To overshadow or surpass.",
+    "example": "The headliner's performance eclipsed all others in the concert.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Eloquent",
+    "definition": "adj. having refined or expressive communication skills (in speaking or writing)",
+    "example": "His speech was not only eloquentbut also extremely compelling.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Elusive",
+    "definition": "adj. Hard to find or understand.",
+    "example": "Nothing became clearer, and the answer remained elusive.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Encompass",
+    "definition": "v. To include or surround.",
+    "example": "The project encompasses multiple disciplines.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Encounter",
+    "definition": "v. To meet or face unexpectedly.",
+    "example": "She encountered an old friend at the store.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Encourage",
+    "definition": "v. To support or inspire.",
+    "example": "Teachers often encourage students to ask questions.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Enduring",
+    "definition": "adj. Lasting over time.",
+    "example": "Their 50-year friendship is enduring.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Evidence",
+    "definition": "n. Information that supports a conclusion.",
+    "example": "There is strong evidence to support the theory.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Evoke",
+    "definition": "v. to draw forth or call up",
+    "example": "Horror movies are great at evokingfear.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Exacerbate",
+    "definition": "v. To make a problem worse.",
+    "example": "His rude comments only exacerbated the tense situation.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Exactitude",
+    "definition": "n. The quality of being precise or accurate.",
+    "example": "The scientist's exactitude ensured reliable results.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Exaggerate",
+    "definition": "v. To overstate or magnify beyond the truth.",
+    "example": "My cousin tends to exaggerate his achievements.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Exceed",
+    "definition": "v. To go beyond a limit.",
+    "example": "The driver exceeded the speed limit by nearly 30 miles an hour.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Exemplify",
+    "definition": "v. To serve as a typical example of something.",
+    "example": "The woman's kindness to her neighbors exemplifies true generosity.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Exhaustive",
+    "definition": "adj. Thorough and complete.",
+    "example": "The 300-page report provided an exhaustive analysis.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Expansion",
+    "definition": "n. The act of increasing in size or scope.",
+    "example": "The company's expansion into international markets has been successful so far.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Expensive",
+    "definition": "adj. Costing a lot of money.",
+    "example": "My sister's diamond ring was extremely expensive.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Experiment",
+    "definition": "n. A test to discover something new.",
+    "example": "The scientist conducted an experiment to test the theory.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Explicable",
+    "definition": "adj. Able to be explained.",
+    "example": "Once I knew the full story, my boyfriend's actions were explicablegiven the circumstances.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Exploit",
+    "definition": "v. To take advantage of something unfairly.",
+    "example": "The mining company was accused of exploiting workers.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Extensive",
+    "definition": "adj. Covering a large area or scope.",
+    "example": "The Art Institute of Chicago has an extensive Impressionist collection.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Extraneous",
+    "definition": "adj. Unrelated or unnecessary.",
+    "example": "The report contained too much extraneous information that didn't matter to the trial.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Fabricate",
+    "definition": "v. To invent or create, often dishonestly.",
+    "example": "The criminal fabricated evidence to support his bogus claim.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Foretell",
+    "definition": "v. To predict or anticipate.",
+    "example": "Ancient prophecies foretold the end of the world.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Foster",
+    "definition": "v. To encourage or promote development.",
+    "example": "Teachers should strive to fostercreativity in students.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Fragile",
+    "definition": "adj. Easily broken or delicate.",
+    "example": "The glass vase is very fragile.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Fruitless",
+    "definition": "adj. Failing to achieve desired results.",
+    "example": "Their search for survivors was fruitless.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Genuine",
+    "definition": "adj. Authentic or real.",
+    "example": "His apology seemed genuine.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Grapple",
+    "definition": "v. To struggle or wrestle with something.",
+    "example": "The country is grappling with economic issues.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Habitual",
+    "definition": "adj. Done regularly or repeatedly.",
+    "example": "His habitual lateness annoyed his coworkers.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Haphazard",
+    "definition": "adj. Lacking organization or planning.",
+    "example": "The project was completed in a haphazard manner.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Hibernation",
+    "definition": "n. A state of dormancy or deep sleep.",
+    "example": "Many bear species go into hibernation during the winter.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Highlight",
+    "definition": "v. To emphasize or make noticeable.",
+    "example": "The article highlights key points of the debate.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Hinder",
+    "definition": "v. To obstruct or slow progress.",
+    "example": "The heavy traffic hindered our journey.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Hoard",
+    "definition": "v. To accumulate and store excessively.",
+    "example": "He hoarded food supplies and toilet paper during the pandemic.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Homogeneous",
+    "definition": "adj. Uniform or similar throughout.",
+    "example": "The population of the village is homogeneous.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Hypothesize",
+    "definition": "v. To form a theory or assumption.",
+    "example": "Scientists hypothesize about the origin of the universe.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Imaginative",
+    "definition": "adj. Creative and full of new ideas.",
+    "example": "The artist's work is highly imaginative.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Imitation",
+    "definition": "n. A copy or replica of something.",
+    "example": "The purse was an imitation of a designer brand.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Imminent",
+    "definition": "adj. About to happen soon.",
+    "example": "A storm is imminent according to the forecast.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Immune",
+    "definition": "adj. Resistant to disease or harm.",
+    "example": "He's immune to the virus due to vaccination.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Impartial",
+    "definition": "adj. Fair and not biased.",
+    "example": "Judges must always remain impartialduring a trial.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Impending",
+    "definition": "adj. Approaching or about to happen.",
+    "example": "They prepared for the impendingstorm by boarding up windows.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Impenetrable",
+    "definition": "adj. Impossible to pass through.",
+    "example": "The fortress was impenetrable to enemy attack.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Imperceptible",
+    "definition": "adj. Very slight or difficult to notice.",
+    "example": "Alex's reaction was imperceptible, so I couldn't tell what he was thinking.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Implement",
+    "definition": "v. To put into effect or execute.",
+    "example": "The business will implement new rules to comply with the change in laws.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Implication",
+    "definition": "n. A possible consequence or meaning.",
+    "example": "The policy change has serious implications for lobbyists.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Implicit",
+    "definition": "adj. Implied rather than stated directly.",
+    "example": "His approval was implicit in his silence.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Impractical",
+    "definition": "adj. Not sensible or realistic.",
+    "example": "The dress design was too impracticalto actually wear.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Improvise",
+    "definition": "v. To create or perform spontaneously.",
+    "example": "The actor had to improvise when he forgot his lines.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Inactive",
+    "definition": "adj. Not engaged in movement or activity.",
+    "example": "The volcano has been inactive for decades.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Inadequate",
+    "definition": "adj. Insufficient or lacking.",
+    "example": "I felt inadequate when I didn't make the final shot during the basketball game.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Inadvertently",
+    "definition": "adv. Unintentionally or by accident.",
+    "example": "The new worker caused a ruckus when he inadvertently deleted an important file.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Incite",
+    "definition": "v. to encourage or stir up",
+    "example": "Her hateful words incited anger in the crowd.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Inconspicuous",
+    "definition": "adj. Not being easily seen or noticed.",
+    "example": "The spy was inconspicuous as he moved through the crowd.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Indecipherable",
+    "definition": "adj. Impossible to understand or read.",
+    "example": "His messy handwriting was indecipherable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Indicate",
+    "definition": "v. To point out or show.",
+    "example": "The results indicate a positive trend.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Indifference",
+    "definition": "n. Lack of interest or concern.",
+    "example": "Natalia's indifference to the situation frustrated her sisters.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Indisputable",
+    "definition": "adj. Unable to be challenged or denied.",
+    "example": "Because the evidence was indisputable, the lawyer was certain his client would go free.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Indistinct",
+    "definition": "adj. Not clear or sharply defined.",
+    "example": "The figure in the distance was blurry and indistinct.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Indulge",
+    "definition": "v. To allow oneself to enjoy.",
+    "example": "After a long day of work, Jane decided to indulge in a piece of cake.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Ineffectual",
+    "definition": "adj. Not producing the desired effect.",
+    "example": "The mayor's efforts to change the city's parking rules were ineffectual.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Inevitable",
+    "definition": "adj. Certain to happen; unavoidable.",
+    "example": "You must accept that change is inevitable in life.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Inexpensive",
+    "definition": "adj. Not costly.",
+    "example": "The new Vietnamese restaurant down the street serves inexpensivebut delicious meals.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Inexplicable",
+    "definition": "adj. Unable to be explained.",
+    "example": "My uncle's sudden departure from the family reunion was inexplicable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Influence",
+    "definition": "n. The power to affect others.",
+    "example": "The pastor's speech had a strong influence on the audience.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Infrequent",
+    "definition": "adj. Not occurring often.",
+    "example": "Rain is infrequent in the Atacama Desert.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Inhibit",
+    "definition": "v. To hinder or restrain.",
+    "example": "Fear of failure can inhibit creativity.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Innocuous",
+    "definition": "adj. Harmless or inoffensive.",
+    "example": "The comment seemed innocuous, but it upset him.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Insensible",
+    "definition": "adj. Unaware or indifferent.",
+    "example": "The father was insensible to his children's boredom.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Insignificant",
+    "definition": "adj. Too small or unimportant to matter.",
+    "example": "The difference in price between the two ice creams was insignificant.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Inspect",
+    "definition": "v. To examine closely.",
+    "example": "The contractor will inspect the building for safety.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Inspirational",
+    "definition": "adj. Providing motivation or encouragement.",
+    "example": "Evan's story of recovering from a severe car accident was inspirationalto many.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Intangible",
+    "definition": "adj. Not able to be touched or measured.",
+    "example": "Love is an intangible concept.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Intentional",
+    "definition": "adj. Done on purpose.",
+    "example": "By reading the evidence, I could tell the man's actions were intentional.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Interchangeable",
+    "definition": "adj. Able to be substituted for each other.",
+    "example": "These parts are interchangeable so it doesn't matter which one you use.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Interject",
+    "definition": "v. To insert a comment abruptly.",
+    "example": "My brother interjected with a sarcastic remark.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Interpret",
+    "definition": "v. To explain the meaning of something.",
+    "example": "I don't understand this poem; can you interpret it for met?",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Intersect",
+    "definition": "v. To cross or meet at a point.",
+    "example": "The two streets intersect downtown.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Intricate",
+    "definition": "adj. Very detailed or complicated.",
+    "example": "The artist created an intricate design on the fabric.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Intriguing",
+    "definition": "adj. Arousing curiosity or interest.",
+    "example": "The mystery novel was intriguing because I couldn't figure out who the murderer was.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Invalidate",
+    "definition": "v. To make something void or null.",
+    "example": "The new evidence invalidated his argument.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Invent",
+    "definition": "v. To create something new.",
+    "example": "Thomas Edison invented the incandescent light bulb.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Investigation",
+    "definition": "n. Systematic inquiries to uncover facts.",
+    "example": "The police conducted a thorough investigation of the crime scene.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Involuntarily",
+    "definition": "adv. Done without conscious control.",
+    "example": "She involuntarily gasped in surprise.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Irrelevant",
+    "definition": "adj. Not related or applicable.",
+    "example": "His comment was irrelevant to the discussion.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Isolate",
+    "definition": "v. To separate from others.",
+    "example": "We need to isolate the patient with the very contagious disease.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Lacking",
+    "definition": "adj. Not having enough of something.",
+    "example": "The short essay was lacking in detail.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Latent",
+    "definition": "adj. Present but not active.",
+    "example": "He had a latent talent for music.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Legitimate",
+    "definition": "adj. Lawful or valid.",
+    "example": "Because he was named in the will, John's claim to the property was legitimate.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Localized",
+    "definition": "adj. Restricted to a particular area.",
+    "example": "The disease was localized to one region.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Manageable",
+    "definition": "adj. Able to be controlled or handled.",
+    "example": "I'm lucky that my workload is manageable today, so I'll be home in time for dinner.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Mandatory",
+    "definition": "adj. Required or obligatory.",
+    "example": "Attendance at the meeting is mandatory for all employees.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Mimic",
+    "definition": "v. To imitate.",
+    "example": "Parrots can mimic human speech.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Misanthropic",
+    "definition": "adj. Disliking people or society.",
+    "example": "The old man was known for his misanthropic views.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Misrepresent",
+    "definition": "v. To give a false impression.",
+    "example": "The article misrepresented the facts.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Moderate",
+    "definition": "adj. Not extreme; average.",
+    "example": "He never has strong opinions, and most of his views are moderate.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Multifaceted",
+    "definition": "adj. Having many aspects or features.",
+    "example": "The housing problem is multifacetedand will take multiple solutions to solve.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Neglect",
+    "definition": "v. To fail to care for properly.",
+    "example": "He neglected his responsibilities when he decided to play video games instead of clean the house.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Neutrality",
+    "definition": "n. The state of not taking sides.",
+    "example": "Switzerland maintained neutralityduring World War II.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Newfound",
+    "definition": "adj. Recently discovered or developed.",
+    "example": "The recently-released prisoner enjoyed his newfound freedom.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Notional",
+    "definition": "adj. Existing only in theory.",
+    "example": "Because we hadn't started it, the plan was still notional.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Novel",
+    "definition": "adj. New or original.",
+    "example": "The doctor introduced a novelapproach to hip surgery.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Nuanced",
+    "definition": "adj. Having subtle differences.",
+    "example": "His argument was well-developed and nuanced.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Obligate",
+    "definition": "v. To compel or require.",
+    "example": "The contract obligates him to pay.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Obscure",
+    "definition": "adj. Not easily understood or seen.",
+    "example": "The meaning of the letter was obscure and I didn't know what to make of it.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Observable",
+    "definition": "adj. Able to be seen or noticed.",
+    "example": "The rings of Saturn were observablethrough the telescope.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Observant",
+    "definition": "adj. Quick to notice things.",
+    "example": "The detective is very observant of small details.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Obsolete",
+    "definition": "adj. no longer used; rare or uncommon",
+    "example": "Historians assumed record players would be obsolete by now, but in fact they’re making a huge comeback.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Obstructed",
+    "definition": "adj. Blocked or hindered.",
+    "example": "We couldn't leave town because the road was obstructed by fallen trees.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Occupy",
+    "definition": "v. To take up space or time.",
+    "example": "The kids occupied themselves with games.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Oddity",
+    "definition": "n. Something unusual or strange.",
+    "example": "The museum displayed an interesting oddity.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Offhand",
+    "definition": "adj. Done without preparation or thought.",
+    "example": "His offhand remark surprised everyone.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Omnipotent",
+    "definition": "adj. almighty and all powerful",
+    "example": "Gods are omnipotent beings who can control human destiny.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Onset",
+    "definition": "n. the beginning or early stages",
+    "example": "At the onset of her career as a lawyer, things were looking up.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Operative",
+    "definition": "adj. Functioning or having effect.",
+    "example": "The new policy is now operative so be sure to follow it.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Ornamental",
+    "definition": "adj. Decorative rather than functional.",
+    "example": "The garden was filled with ornamental plants that helped beautify the space.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Oust",
+    "definition": "v. to remove or force out of (usu. a position or office)",
+    "example": "Sick and tired of putting up with his bad moods, the pirates ousted their captain.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Outstrip",
+    "definition": "v. To surpass or exceed.",
+    "example": "Sales of my new novel outstrippedall expectations.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Overcome",
+    "definition": "v. To succeed in dealing with a problem.",
+    "example": "She overcame her fear of public speaking and was able to deliver her remarks.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Overlook",
+    "definition": "v. To fail to notice or consider.",
+    "example": "The officer overlooked an important detail that would have helped solve the crime.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Overreact",
+    "definition": "v. To respond too strongly.",
+    "example": "My sister overreacted to our parents' criticism of her outfit.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Overshadow",
+    "definition": "v. To be more important than something else.",
+    "example": "His success overshadowed his past failures.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Overtly",
+    "definition": "adv. Openly and clearly.",
+    "example": "He overtly expressed his disapproval by telling me what he thought.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Overwhelmed",
+    "definition": "adj. Feeling excessive stress or emotion.",
+    "example": "Agatha felt overwhelmed by her workload and had no idea how she'd finish it all in time.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Paramount",
+    "definition": "adj. predominant, superior, most important",
+    "example": "Our paramount concern is the safety of our employees.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Paucity",
+    "definition": "n. A scarcity or lack.",
+    "example": "The crime will be difficult to solve because there is a paucity of evidence.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Perceive",
+    "definition": "v. To become aware of something.",
+    "example": "She perceived a hint of sadness in his voice.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Peripheral",
+    "definition": "adj. On the edge or outer part of something.",
+    "example": "My involvement was peripheral to the project because I didn't do much.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Permanent",
+    "definition": "adj. Lasting indefinitely.",
+    "example": "The marker left a permanent stain on my favorite shirt that I won't be able ot get out.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Perpetual",
+    "definition": "adj. Continuing forever or indefinitely.",
+    "example": "The con artist lived in perpetual fear of being arrested.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Persistent",
+    "definition": "adj. Continuing despite difficulty.",
+    "example": "After fifty years of buying lottery tickets, persistent efforts paid off when he won the jackpot.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Popularize",
+    "definition": "v. To make widely known.",
+    "example": "The internet popularized online shopping.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Postulate",
+    "definition": "v. To assume or propose a theory.",
+    "example": "Scientists postulated a new hypothesis for the origin of the universe.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Pragmatic",
+    "definition": "adj. Practical and realistic.",
+    "example": "Elliot put his emotions aside and took a pragmatic approach to problem-solving.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Praise",
+    "definition": "v. To express approval or admiration.",
+    "example": "The teacher praised the students’ hard work.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Precarious",
+    "definition": "adj. Uncertain or unstable.",
+    "example": "The goat was perched on a precarious edge of the cliff.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Preclude",
+    "definition": "v. To prevent from happening.",
+    "example": "Dylan's injury precluded him from playing in the soccer match.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Predatory",
+    "definition": "adj. Exploiting others for personal gain.",
+    "example": "The credit company engaged in predatory lending practices.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Predetermined",
+    "definition": "adj. Decided in advance.",
+    "example": "The outcome seemed predetermined and that we could do nothing to change it.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Predict",
+    "definition": "v. To say what will happen in the future.",
+    "example": "Meteorologists predict rain tomorrow.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Premeditated",
+    "definition": "adj. Planned beforehand.",
+    "example": "Because the man had planned the theft for weeks, it was obvious the crime was premeditated.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Prescribe",
+    "definition": "v. To recommend or order a treatment.",
+    "example": "The doctor prescribed antibiotics when I had an ear infection.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Preserve",
+    "definition": "v. To keep something in its original state.",
+    "example": "The builders worked to preserve the house's original decorations.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Presume",
+    "definition": "v. To assume something to be true.",
+    "example": "I presume he will be late to the party.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Prevail",
+    "definition": "v. To win or be more powerful.",
+    "example": "Justice will always prevail.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Preventable",
+    "definition": "adj. Able to be avoided.",
+    "example": "Many diseases are preventable with vaccines.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Probability",
+    "definition": "n. Likelihood of something happening.",
+    "example": "When you live in the desert, there's almost always a low probability of rain.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Proclaim",
+    "definition": "v. To announce officially.",
+    "example": "The king proclaimed a new law.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Produce",
+    "definition": "v. To create or generate something.",
+    "example": "The Ford factory producesthousands of cars each year.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Profusion",
+    "definition": "n. A large quantity of something.",
+    "example": "The garden had a profusion of flowers every spring.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Prolong",
+    "definition": "v. To extend in duration.",
+    "example": "He tried to prolong the meeting from one hour to two.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Prominent",
+    "definition": "adj. Important or well-known.",
+    "example": "Marie Curie was a prominentscientist who won many awards.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Proponent",
+    "definition": "n. A supporter of a cause or idea.",
+    "example": "The environmentalist was a proponent of renewable energy.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Provoke",
+    "definition": "v. To stir up or incite.",
+    "example": "Miriam's rude words provoked an argument.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Prudently",
+    "definition": "adv. In a wise or careful manner.",
+    "example": "My grandmother always prudentlysaved money for emergencies.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Quantity",
+    "definition": "n. An amount or number.",
+    "example": "The pudding recipe requires a small quantity of sugar.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Quarrel",
+    "definition": "n. An angry argument or dispute.",
+    "example": "The couple had a loud quarrel over money.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Questionable",
+    "definition": "adj. Doubtful or uncertain.",
+    "example": "Despite claiming to want to help people, the politician's motives were questionable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Ramify",
+    "definition": "v. to split into two or more branches",
+    "example": "Cars ramified throughout the world in the twentieth century.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Rarely",
+    "definition": "adv. Infrequently or seldom.",
+    "example": "My sister rarely eats fast food.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Rationalize",
+    "definition": "v. To justify an action with reasoning.",
+    "example": "He tried to rationalize his mistake by explaining his thought process.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Rebellion",
+    "definition": "n. An act of resistance against authority.",
+    "example": "The peasants led a rebellion against the king.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Recalcitrant",
+    "definition": "adj. Stubbornly resistant to authority.",
+    "example": "The recalcitrant student refused to obey.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Recant",
+    "definition": "v. To take back a previous statement.",
+    "example": "He was forced to recant his confession.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Receptive",
+    "definition": "adj. Open to new ideas.",
+    "example": "The new dancer was receptive to feedback.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Reciprocate",
+    "definition": "v. To give in return.",
+    "example": "I reciprocated my brother's kindness by buying him dinner.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Recognizable",
+    "definition": "adj. Easily identified.",
+    "example": "The Nike logo is instantly recognizable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Rectify",
+    "definition": "v. To correct or fix something.",
+    "example": "She tried to rectify her mistake with an apology.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Redefine",
+    "definition": "v. To change the meaning of something.",
+    "example": "The company redefined its mission.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Redress",
+    "definition": "v. To set right or remedy.",
+    "example": "They sought to redress past injustices.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Reform",
+    "definition": "v. To improve by making changes.",
+    "example": "The government promised to reformthe healthcare system.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Refuse",
+    "definition": "v. To decline or reject.",
+    "example": "Emilia refused the job offer.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Refute",
+    "definition": "v. To prove false or incorrect.",
+    "example": "The scientist refuted the claim that the Earth was flat.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Regrettable",
+    "definition": "adj. Causing sorrow or disappointment.",
+    "example": "Forgetting my boyfriend's birthday was a regrettable mistake.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Regulate",
+    "definition": "v. To control or manage.",
+    "example": "The government regulates nuclear energy facilities.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Reject",
+    "definition": "v. To dismiss or refuse to accept.",
+    "example": "She rejected her boyfriend's proposal.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Relocate",
+    "definition": "v. To move to a new place.",
+    "example": "The dentist relocated to a bigger office.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Renounce",
+    "definition": "v. To give up or reject formally.",
+    "example": "He renounced his citizenship after moving to a new country.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Replenish",
+    "definition": "v. To refill or restore.",
+    "example": "After we finished the lemonade, the hostess replenished the pitcher.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Replicable",
+    "definition": "adj. Able to be copied or repeated.",
+    "example": "The experiment's results were replicable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Representative",
+    "definition": "n. A person acting on behalf of others.",
+    "example": "The company's representativespoke at the meeting.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Repress",
+    "definition": "v. To suppress or hold back.",
+    "example": "Although devastated, Jalen repressedhis emotions.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Reprieve",
+    "definition": "n. A temporary relief or delay.",
+    "example": "Because the defendant needed surgery, the judge granted a reprieve.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Repudiate",
+    "definition": "v. To reject or disown.",
+    "example": "She repudiated the accusation that she'd stolen money from the company.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Resilient",
+    "definition": "adj. Able to recover quickly.",
+    "example": "Even after setbacks, the patient is very resilient.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Resolve",
+    "definition": "v. To find a solution.",
+    "example": "The warring siblings eventually resolved their differences.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Responsive",
+    "definition": "adj. Reacting quickly or positively.",
+    "example": "The team wanted to improve and was very responsive to feedback.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Restore",
+    "definition": "v. To bring back to original condition.",
+    "example": "The architecture team carefully restored the old house.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Restrain",
+    "definition": "v. To hold back or limit.",
+    "example": "Even though Tom was furious, he restrained his anger.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Retain",
+    "definition": "v. To keep or hold onto.",
+    "example": "I use this pitcher to retain water for my herb garden.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Retaliate",
+    "definition": "v. To respond to an attack.",
+    "example": "After Celia yelled at Dom, he retaliated with a counterattack.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Rousing",
+    "definition": "adj. Exciting or stirring.",
+    "example": "The speaker gave a rousing speech that brought the audience to its feet.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Rudimentary",
+    "definition": "adj. Basic or simple.",
+    "example": "The little boy only has a rudimentaryunderstanding of math.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Sanction",
+    "definition": "v. To authorize or approve.",
+    "example": "The government sanctioned the project so construction will start soon.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Sanguine",
+    "definition": "adj. Optimistic or hopeful.",
+    "example": "He remained sanguine despite repeated setbacks.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Saturate",
+    "definition": "v. To soak or fill completely.",
+    "example": "The sponge was saturated with water.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Scorn",
+    "definition": "v. to look down on with disdain",
+    "example": "It’s difficult for me not to scorn those who use improper grammar.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Scrutinize",
+    "definition": "v. To examine closely.",
+    "example": "I'm going to have my lawyer scrutinize the contract.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Secretive",
+    "definition": "adj. Keeping things hidden.",
+    "example": "He was secretive about his plans for Valentine's Day.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Sensitive",
+    "definition": "adj. Easily affected or aware.",
+    "example": "She is very sensitive to criticism.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Simulate",
+    "definition": "v. To imitate or replicate.",
+    "example": "The pilot simulated an emergency landing.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Sincerity",
+    "definition": "n. The quality of being genuine.",
+    "example": "His sincerity was evident in his speech.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Skeptical",
+    "definition": "adj. Doubtful or questioning.",
+    "example": "The teacher was skeptical of the student's claim that the dog ate her homework.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Sophisticated",
+    "definition": "adj. Complex or refined.",
+    "example": "The building's design was intricate and sophisticated.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Span",
+    "definition": "n. The extent or length of something.",
+    "example": "The Golden Gate Bridge has a long span.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Sparingly",
+    "definition": "adv. insufficiently, meagerly, or in a restricted manner",
+    "example": "Due to my blood pressure, I must eat salt sparingly.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Speculate",
+    "definition": "v. To guess or theorize.",
+    "example": "He speculated about the outcome of the soccer match.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Spurious",
+    "definition": "adj. False or deceptive.",
+    "example": "The claims were spurious and therefore thrown out in court.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Stark",
+    "definition": "adj. Very plain; devoid of any details or features",
+    "example": "Looking out at the stark landscape, I felt a keen sense of isolation.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Strenuously",
+    "definition": "adv. With great effort.",
+    "example": "She strenuously denied the accusations against her.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Sturdily",
+    "definition": "adv. Strongly or solidly.",
+    "example": "The chair was sturdily built and had no chance of breaking.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Stymie",
+    "definition": "v. To hinder or block.",
+    "example": "The restoration project was stymiedby a lack of funds.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Substantial",
+    "definition": "adj. Large or important.",
+    "example": "Jackie made a substantial donation to her alma mater.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Subtle",
+    "definition": "adj. Hard to detect or analyze",
+    "example": "The author gave a subtle hint as to who the murderer was.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Succumb",
+    "definition": "v. To give in or surrender.",
+    "example": "He succumbed to the temptation to eat the entire bag of gummy bears.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Superficial",
+    "definition": "adj. Shallow or lacking depth.",
+    "example": "The candidate struggled to answer questions about policy because his knowledge was superficial.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Supplement",
+    "definition": "v. To add to something.",
+    "example": "She supplemented her income by starting a side hustle.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Surmise",
+    "definition": "v. To infer or guess.",
+    "example": "He surmised the answer based on context clues.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Surpass",
+    "definition": "v. To exceed or go beyond.",
+    "example": "She surpassed expectations by winning the national spelling bee.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Surrender",
+    "definition": "v. To give up or yield.",
+    "example": "The weakened army surrendered to the enemy.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Susceptible",
+    "definition": "adj. Easily influenced or affected.",
+    "example": "With his weakened immune system, Marcelo is susceptible to illness.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Synchronization",
+    "definition": "n. The process of coordinating events.",
+    "example": "The synchronization of lights helped traffic flow.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Tentative",
+    "definition": "adj. Uncertain or not fully decided.",
+    "example": "Our plans are tentative and may change.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Tenuous",
+    "definition": "adj. Weak or insubstantial.",
+    "example": "His argument was tenuous at best.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Theoretical",
+    "definition": "adj. Based on theory rather than practice.",
+    "example": "The idea remains theoretical until tested.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Theory",
+    "definition": "n. A system of ideas intended to explain something.",
+    "example": "Einstein's theory of relativity changed physics.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Thoughtfulness",
+    "definition": "n. Consideration for others.",
+    "example": "Her thoughtfulness made her a great friend.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Tranquil",
+    "definition": "adj. Peaceful and calm.",
+    "example": "The lake was tranquil at sunset.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Transform",
+    "definition": "v. To change in form or appearance.",
+    "example": "The caterpillar transformed into a butterfly.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Ubiquitous",
+    "definition": "adj. Present everywhere.",
+    "example": "Smartphones have become ubiquitous in society.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Uncontroversial",
+    "definition": "adj. Not likely to cause disagreement.",
+    "example": "The decision was uncontroversialand widely accepted.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Undeniable",
+    "definition": "adj. Cannot be disputed.",
+    "example": "Simone Biles' talent as a gymnast is undeniable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Underscore",
+    "definition": "v. To emphasize.",
+    "example": "The report underscored the importance of safety.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Unimportant",
+    "definition": "adj. Not significant.",
+    "example": "The details were unimportant to the main issue.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Unintended",
+    "definition": "adj. Not planned or meant.",
+    "example": "The side effects of the medication were unintended.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Universal",
+    "definition": "adj. Common to all.",
+    "example": "The desire for love is universal.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Unmistakable",
+    "definition": "adj. Clearly recognizable.",
+    "example": "Morgan Freeman's voice is unmistakable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Unobtrusive",
+    "definition": "adj. Not attracting attention.",
+    "example": "The waitress did her best to be unobtrusive while clearing the table.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Unoriginal",
+    "definition": "adj. Lacking originality.",
+    "example": "His speech was unoriginal and predictable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Unpredictable",
+    "definition": "adj. Difficult to foresee.",
+    "example": "The weather in winter can often be unpredictable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Validate",
+    "definition": "v. To confirm the accuracy of something.",
+    "example": "The test results validated his hypothesis.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Variable",
+    "definition": "adj. Likely to change.",
+    "example": "The weather is highly variable in spring.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Verisimilitude",
+    "definition": "n. The appearance of being true or real.",
+    "example": "The novel’s verisimilitude made it compelling.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Veritable",
+    "definition": "adj. Used to emphasize truth.",
+    "example": "Einstein was a veritable genius.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Vigilance",
+    "definition": "n. The action of keeping careful watch.",
+    "example": "Constant vigilance is needed for security.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Vital",
+    "definition": "adj. Urgently necessary",
+    "example": "It is vital that you respond by the deadline.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Waive",
+    "definition": "v. To give up a right or claim voluntarily.",
+    "example": "He waived his right to an attorney.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Warranted",
+    "definition": "adj. Justified or necessary.",
+    "example": "The decision was warranted by the evidence.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Widespread",
+    "definition": "adj. Found or occurring over a large area.",
+    "example": "The disease became widespread.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Withdraw",
+    "definition": "v. To remove or retreat.",
+    "example": "She withdrew from the competition.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet2.csv"
+  },
+  {
+    "word": "Accordingly",
+    "definition": "adv. in accordance with",
+    "example": "All students must behave accordingly.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Acquisition",
+    "definition": "n. the act of gaining a skill or possession of something",
+    "example": "Language acquisition is easier for kids than it is for adults.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Adversarial",
+    "definition": "adj. relating to hostile opposition",
+    "example": "An adversarial attitude will make you many enemies in life.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Advocate",
+    "definition": "n. someone who promotes or defends something\nv. to defend or promote something (usu. a belief, theory, opinion, etc.)",
+    "example": "I am an advocate for free higher education.\nEnvironmental protesters often advocate for cleaner energy practices.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Aesthetic",
+    "definition": "adj. relating to beauty or refined taste",
+    "example": "The aesthetic decorations at the wedding reception made you feel as if you were a character in a fairy tale.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Afford",
+    "definition": "v. to be able to buy\nv. to be able to spare",
+    "example": "He’s saving money so he can afford to buy a new car.\nI can’t afford to lose any more pencils!",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Agitate",
+    "definition": "v. to promote something (usu. a cause)",
+    "example": "They’re agitating for better health care.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Allow",
+    "definition": "v. to permit or consent to",
+    "example": "US law allows citizens to speak freely.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Altercation",
+    "definition": "n. a noisy argument or confrontation",
+    "example": "Greg got into an altercation with a stranger at the bar.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Ambiguous",
+    "definition": "adj. unclear or vague in meaning",
+    "example": "Her ambiguous statement made me question whether she could be trusted.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Ambitious",
+    "definition": "adj. having a powerful desire for success or achievement",
+    "example": "Penny is so ambitious, she wants to be president someday.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Annihilate",
+    "definition": "v. to destroy or cause devastating destruction",
+    "example": "The dictator sent orders to annihilate the group of rebels.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Apprehension",
+    "definition": "n. fearful expectation of something",
+    "example": "Her apprehension to leave her house resulted in her missing the train.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Articulate",
+    "definition": "v. to clearly express in words",
+    "example": "She articulated her opinion on the price of the house.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Artificial",
+    "definition": "adj. something made; not occurring naturally",
+    "example": "Many candies use artificial flavors to make them taste fruity.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Assertion",
+    "definition": "n. a strong declaration",
+    "example": "His assertion that sharks are mammals made everyone laugh.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Authenticity",
+    "definition": "n. the quality of being real and true instead of fake and contrived",
+    "example": "The police officer doubted the authenticity of the suspect’s story.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Avenue",
+    "definition": "n. an intangible path or approach to something",
+    "example": "The company has decided to pursue other avenues.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Avid",
+    "definition": "adj. actively interested in or enthusiastic about something",
+    "example": "Gerald is an avid soccer fan.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Basic",
+    "definition": "adj. relating to the foundation or basis of something",
+    "example": "You have to start with basic Russian before you can move on to the advanced level.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Bear",
+    "definition": "v. to have as a characteristic\nv. to have (a child)\nv. to bring forth\nv. to put up with",
+    "example": "She bears a strong resemblance to your mother.\nJudy will bear her first child later this year.\nMy garden is going to bear pumpkins this year.\nI can’t bear her complaining any longer!",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Bias",
+    "definition": "n. a preconception that prevents objectivity",
+    "example": "It’s important to avoid bias when investigating a crime.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Bittersweet",
+    "definition": "adj. tinged with a feeling of sadness",
+    "example": "The ending of the romance movie was bittersweet.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Bolster",
+    "definition": "v. to support, strengthen, or fortify",
+    "example": "If we work together, we should be able to lift and then bolster the couch.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Boost",
+    "definition": "n. an increase or growth\nv. to increase or make grow",
+    "example": "The boost in profits was a welcome change.\nIn order to boost profits, you need to cater to your customers.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Brawl",
+    "definition": "n. an intense, loud fight\nv. to fight loudly and disruptively",
+    "example": "A brawl broke out at school today after one student accused another of cheating.\nThe two students brawled for an hour.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Brevity",
+    "definition": "n. the quality of being brief or terse",
+    "example": "The brevity of their time together made it all the more romantic.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Candor",
+    "definition": "n. the trait of being honest and frank",
+    "example": "I admire her candor, especially when nobody else bothers to speak up.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Capitalize",
+    "definition": "v. to use to your advantage",
+    "example": "I’d like to capitalize on your math skills by having your work the cash register.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Capture",
+    "definition": "v. to trap or take possession of\nv. to successfully represent or imitate\nv. to captivate, mesmerize\nv. to catch or seize",
+    "example": "The spy was captured by the enemy.\nYour painting beautifully captures the ephemerality of life.\nI was captured by her beauty.\nThe cops captured the criminal three days after the incident.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Civic",
+    "definition": "adj. relating to the city or citizens",
+    "example": "Voting is a civic duty.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Clinical",
+    "definition": "adj. emotionally unattached (usu. used in medical or scientific setting)",
+    "example": "Her clinical approach to situations allows her to handle them more effectively.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Clout",
+    "definition": "n. special advantage or power",
+    "example": "Children of rich and famous people often believe they have a lot of clout.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Coarse",
+    "definition": "adj. indicating a rough texture\nadj. lacking refinement or sophistication",
+    "example": "The horse’s mane was coarse, as if it had never been washed.\nThe queen’s coarse way of speaking surprised the other members of royalty.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Coincide",
+    "definition": "v. to happen at the same time",
+    "example": "It wasn’t until after I booked my ticket that I realized the concert coincided with my finals.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Commission",
+    "definition": "n. the use of payment to request something (e.g., a service or product)",
+    "example": "This painting was commissioned by a rich merchant in 1589.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Comparable",
+    "definition": "adj. able to be compared",
+    "example": "This novel is comparable to Huckleberry Finn.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Complacent",
+    "definition": "adj. satisfied, with no desire to change or improve",
+    "example": "Though he had never won any awards or even been published, he was complacent with his life as a poet.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Complement",
+    "definition": "v. to make perfect or complete",
+    "example": "This wine perfectly complements this platter of gourmet cheese.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Conceive",
+    "definition": "v. to imagine or come up with",
+    "example": "The plan to build the city was originally conceived in the early 1900s.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Condone",
+    "definition": "v. to overlook, approve, or allow",
+    "example": "She couldn't condone her daughter's rebellious behavior.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Conducive",
+    "definition": "adj. able to bring about or be suitable for",
+    "example": "The noisy students hardly made the campus library conducive to studying.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Conduct",
+    "definition": "v. to control or manage\nv. to behave a certain way",
+    "example": "The group conducted their research abroad last year.\nBe sure to conduct yourself accordingly.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Confide",
+    "definition": "v. to share something secretive with someone",
+    "example": "She confided all of her biggest secrets in her best friend.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Confine",
+    "definition": "v. to put limits on; to restrict",
+    "example": "We are going to confine the use of this drinking fountain.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Constitute",
+    "definition": "v. to form or compose (part of) something",
+    "example": "The desire for equality constituted the civil rights movement.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Contemplate",
+    "definition": "v. to think deeply about",
+    "example": "She contemplated telling her teacher about the cheating student.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Contend",
+    "definition": "v. to maintain or assert (an opinion)",
+    "example": "The president contends that the US government will not negotiate with terrorists.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Conventional",
+    "definition": "adj. abiding by accepted standards",
+    "example": "She lives a conventional life in the suburbs.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Convey",
+    "definition": "v. to pass on or transfer (information)",
+    "example": "I have trouble conveying my thoughts in French.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Conviction",
+    "definition": "n. a firm belief in something",
+    "example": "Her religious convictions prevent her from eating meat.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Counterargument",
+    "definition": "n. an argument used to criticize or dismantle another argument",
+    "example": "Make sure to include a counterargument in your essay so that you can show you’ve considered the topic from all perspectives.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Counterproductive",
+    "definition": "adj. hindering the achievement of a goal",
+    "example": "Bill’s idea to take a shortcut was ultimately counterproductive: it took us twice as long to get to the train station.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Culmination",
+    "definition": "n. the final act or climax",
+    "example": "The culmination of the performance was unforgettable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Cultivate",
+    "definition": "v. to foster the growth of",
+    "example": "Teachers don’t just pass on new information to students—they cultivate their academic potential.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Decree",
+    "definition": "v. to declare formally and with authority",
+    "example": "The president decreed that Halloween would henceforth be a national holiday.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Deference",
+    "definition": "n. respect; regard",
+    "example": "Her deference to the elderly makes her the perfect candidate for an internship at the retirement center.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Demonstrate",
+    "definition": "v. to do as an example\nv. gives evidence for",
+    "example": "Could you demonstrate the dance move for me?\nThis book’s use of words such as “grim” and “bleak” demonstrates the author’s mournful tone.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Demur",
+    "definition": "v. to object to",
+    "example": "She demurred at my request to transfer to a different department.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Deplete",
+    "definition": "v. to (over)use over time (usu. resources)",
+    "example": "The lost campers quickly depleted their supply of food.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Desolate",
+    "definition": "adj. bare, barren, empty",
+    "example": "The moon is one giant, desolate landscape.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Dilemma",
+    "definition": "n. a problem, usually requiring a choice between two options",
+    "example": "The main dilemma is whether to pay for a commercial or not.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Diligence",
+    "definition": "n. conscientiousness; the quality of being committed to a task",
+    "example": "Diligence and confidence will get you far in life.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Dire",
+    "definition": "adj. hopeless and dangerous or fearful",
+    "example": "When the police didn’t explain what was happening right away, Jane knew that the situation must be dire.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Disdain",
+    "definition": "n. a lack of respect and strong dislike (toward something or someone)",
+    "example": "He looked at me with such disdain that I immediately knew the job wouldn’t work out.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Dismay",
+    "definition": "n. hopelessness, stress, or consternation\nv. to fill with woe or apprehension",
+    "example": "To Nick’s dismay, he got an F on the test.\nMany were dismayed by the town’s implementation of metered parking.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Dispatch",
+    "definition": "v. to send off a message or messenger",
+    "example": "The mother dispatched her daughter to their neighbor’s house.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Diversification",
+    "definition": "n. the act of becoming diverse",
+    "example": "Lately, there’s been noticeable diversificationof students at higher institutions.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Doctrine",
+    "definition": "n. a principle, theory, or position, usu. advocated by a religion or gov’t",
+    "example": "Devoutly religious people often live their lives according to their doctrines.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Dominion",
+    "definition": "n. power and authority (usu. over a territory)\nn. a legal territory",
+    "example": "The country claimed to have dominion over parts of Russia.\nPuerto Rico is a dominion of the US.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Dreary",
+    "definition": "adj. sad, gloomy, dull",
+    "example": "The gray clouds in the sky made the day feel dreary.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Dubious",
+    "definition": "adj. doubtful, questionable",
+    "example": "The man’s claims to the throne were dubioussince nobody knew where he’d come from.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Eccentric",
+    "definition": "adj. peculiar or odd; deviating from the norm",
+    "example": "She’s a little eccentric but still fun to be around.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Egregious",
+    "definition": "adj. extremely bad",
+    "example": "After cheating on the exam, Emily began to feel as though she’d made an egregiousmistake.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Eminent",
+    "definition": "adj. superior or distinguished; high in position or status",
+    "example": "Our town made news when the eminentmagician came to perform at our local theater.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Emit",
+    "definition": "v. to discharge, give forth, or release",
+    "example": "Plants consume carbon dioxide and emitoxygen.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Emphatic",
+    "definition": "adj. very expressive; using emphasis",
+    "example": "Her emphatic smile told me she was excited to ride the roller coaster.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Empirical",
+    "definition": "adj. derived from experience, observation, or an experiment",
+    "example": "You need empirical evidence to support your claim.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Endow",
+    "definition": "v. to equip or bestow (usu. a quality or ability)",
+    "example": "According to the myth, the gods endowed him with the gift of healing.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Endure",
+    "definition": "v. to withstand, sustain, or hold out against",
+    "example": "I can’t endure this wait any longer. Will Stanford accept or reject me?",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Entail",
+    "definition": "v. to involve or include",
+    "example": "A doctoral program entails long nights and a heavy workload.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Entrenched",
+    "definition": "adj. firmly established",
+    "example": "Her face will forever be entrenched in my memory.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Enumerate",
+    "definition": "v. to specify or count",
+    "example": "I can’t enumerate how many times I’ve had to remind my students when their papers are due.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Envy",
+    "definition": "n. excessive jealousy\nv. to admire and be jealous of",
+    "example": "His envy of her is quite obvious.\nShe envies her coworker's social skills.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Erratic",
+    "definition": "adj. having no fixed course; deviating from the norm",
+    "example": "The car became erratic after slipping on ice.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Establish",
+    "definition": "v. to enact\nv. to found (a business, group, school, etc.)",
+    "example": "They established a law that made it illegal to drive after drinking any amount of alcohol.\nOur group established a new branch in Chicago.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Excel",
+    "definition": "v. to do something extremely well or to be superior in",
+    "example": "She was a well-rounded student but excelledespecially in science.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Exert",
+    "definition": "v. to put into use (usu. as effort)",
+    "example": "Don’t exert all of your energy at once.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Exhilarating",
+    "definition": "adj. invigorating, stimulating, or exciting",
+    "example": "The music playing at the club was catchy and exhilarating.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Expend",
+    "definition": "v. to use up (as in energy or money)",
+    "example": "Be careful not to expend all your energy in the first half of a marathon.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Facilitate",
+    "definition": "v. to aid the progress of",
+    "example": "In grad school, advisors facilitate students’ research and offer constructive criticism.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Feasibility",
+    "definition": "n. the practicality or possibility of something",
+    "example": "The feasibility of her project was doubtful; she’d have to go all the way to Antarctica and back before the school year ended.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Ferocity",
+    "definition": "n. viciousness, violence",
+    "example": "The lion is just one wild animal known for its ferocity.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Fiscal",
+    "definition": "adj. related to (government) money",
+    "example": "Fiscal policy is how the government uses money to influence the economy.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Flourish",
+    "definition": "v. to prosper, grow, or make fast progress",
+    "example": "After one year, the tiny plants had flourishedinto a breathtaking garden.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Fluctuate",
+    "definition": "v. to be unstable; to rise and fall",
+    "example": "Stocks can fluctuate on a daily basis, making it difficult to determine when to buy or sell one.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Foment",
+    "definition": "v. to stir up",
+    "example": "The civilians accused their leader of fomenting political unrest.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Foreseeable",
+    "definition": "adj. capable of being predicted or anticipated",
+    "example": "I can't imagine aliens visiting us in the foreseeable future.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Frankly",
+    "definition": "adv. directly, clearly",
+    "example": "I frankly don’t see the point in learning to drive.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Freewheeling",
+    "definition": "adj. carefree",
+    "example": "His freewheeling attitude often got him in trouble at work.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Fundamental",
+    "definition": "adj. the most essential or most basic part",
+    "example": "A thesis is arguably the most fundamentalpart of an essay.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Galvanizing",
+    "definition": "adj. thrilling, exciting, stimulating",
+    "example": "The galvanizing performance left everyone spellbound.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Geriatric",
+    "definition": "adj. relating to old age",
+    "example": "I became interested in geriatric medicine shortly after my grandfather passed away from cancer.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Hostile",
+    "definition": "adj. harmful, dangerous",
+    "example": "The voices around the corner sounded angry, hostile even.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Hypothetical",
+    "definition": "adj. supposed; related to a hypothesis",
+    "example": "For my physics homework, I must come up with a hypothetical situation.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Ignominious",
+    "definition": "adj. publicly shameful or humiliating",
+    "example": "The politician's expensive campaign ultimately ended in ignominious defeat.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Impart",
+    "definition": "v. to transmit, bestow, or disclose",
+    "example": "Parents must impart common sense to their children.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Impartiality",
+    "definition": "n. the equal and objective treatment of opposing views",
+    "example": "To ensure impartiality, we require everyone to follow these general guidelines.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Imposing",
+    "definition": "adj. impressive (esp. in size or appearance)",
+    "example": "The old mansion was imposing in its huge size and gothic architecture.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Imposition",
+    "definition": "n. an unnecessary burden",
+    "example": "If it’s not too much of an imposition, could you proofread my paper?",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Imprudent",
+    "definition": "adj. not cautious or prudent; rash",
+    "example": "Backpacking abroad can be fun, but don’t be imprudent about money.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Indiscriminately",
+    "definition": "adv. randomly; with little or no distinction",
+    "example": "Lottery winners are chosen indiscriminately.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Infer",
+    "definition": "v. to guess, conclude, or derive by reasoning",
+    "example": "You can infer from this quotation that the writer didn’t care for “pretty” language.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Innovative",
+    "definition": "adj. novel or new (esp. as an idea or invention)",
+    "example": "Her invention was incredibly innovative and won her multiple awards.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Insatiable",
+    "definition": "adj. can’t be satisfied",
+    "example": "A vampire’s thirst for blood is said to be insatiable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Inversion",
+    "definition": "n. a reversal",
+    "example": "The culture’s norms were an inversion of our own.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Invoke",
+    "definition": "v. to call on; to appeal to (e.g., a higher power)",
+    "example": "The shaman attempted to invoke a demon.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Irreconcilable",
+    "definition": "adj. incapable of being in harmony or agreed upon",
+    "example": "The couple’s differences were ultimately irreconcilable, giving them no choice but to break up.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Lament",
+    "definition": "v. to feel sorrow for; to mourn",
+    "example": "Susan lamented her missed chance at going to Europe with her high school class.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Locomotion",
+    "definition": "n. movement",
+    "example": "Physics involves the study of locomotion.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Lucrative",
+    "definition": "adj. capable of making a lot of money; profitable",
+    "example": "Writing books isn’t a particularly lucrativecareer, unless you’re J.K. Rowling.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Malicious",
+    "definition": "adj. harmful, spiteful",
+    "example": "The malicious spirit drove out the inhabitants from their home.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Malleable",
+    "definition": "adj. capable of being molded or changed",
+    "example": "Children’s minds are malleable but only for so long.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Materialistic",
+    "definition": "adj. superficial; focus on material possessions",
+    "example": "Many people accuse Americans of being materialistic.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Melodramatic",
+    "definition": "adj. extravagant or exaggerated (as of a melodrama)",
+    "example": "The melodramatic play was well liked by the audience.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Modest",
+    "definition": "adj. simple and humble\nadj. small in size or amount",
+    "example": "They moved into a modest house in the countryside.\nI received a modest sum of money for my help at the company event.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Modify",
+    "definition": "v. to change, alter, or tweak",
+    "example": "Dr. Nguyen modified the gene so that it wouldn’t carry the disease.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Momentous",
+    "definition": "adj. historically significant",
+    "example": "Her win in the election was momentous.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Nuance",
+    "definition": "n. a subtle difference in meaning",
+    "example": "Body-language experts even understand the nuances of facial expressions.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Null",
+    "definition": "adj. legally void and ineffective",
+    "example": "The government declared their marriage null.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Objectivity",
+    "definition": "n. judgment based on observations instead of emotions or opinions",
+    "example": "In scientific research, objectivity is of utmost importance.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Opine",
+    "definition": "v. to openly express an opinion",
+    "example": "The new employee opined at the company meeting.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Ornate",
+    "definition": "adj. highly detailed and decorated",
+    "example": "That ornate silverware must be worth thousands of dollars!",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Peculiar",
+    "definition": "adj. strange, bizarre",
+    "example": "Upon entering the abandoned house, Kate experienced a peculiar feeling, as if someone was watching her.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Perish",
+    "definition": "v. to die; to pass away",
+    "example": "According to the news, nobody perished in the fire.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Persecute",
+    "definition": "v. to cause suffering to",
+    "example": "They will persecute anyone who doesn’t agree with their views of the world.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Petulant",
+    "definition": "adj. cranky, pouty, irritable",
+    "example": "Petulant children are especially difficult to care for.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Pinnacle",
+    "definition": "n. highest level or degree",
+    "example": "Many believe that composers such as Beethoven and Mozart represent the pinnacleof classical music.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Pitiable",
+    "definition": "adj. deserving pity",
+    "example": "The frail-looking dog was pitiable, so I gave it some food and took it inside to care for it.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Plausible",
+    "definition": "adj. reasonable and possibly true",
+    "example": "Her story is plausible, but that doesn’t mean she’s telling the truth.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Potent",
+    "definition": "adj. having great influence\nadj. having a strong, chemical effect",
+    "example": "The bald eagle is a potent symbol of the US.\nThe potion was definitely potent—it healed my wounds immediately!",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Precedent",
+    "definition": "n. an example or subject from earlier in time",
+    "example": "This change in law is without historical precedent.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Predecessor",
+    "definition": "n.  someone who comes before you (usu. in position or office)",
+    "example": "My predecessor gave me many tips for running the office.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Principle",
+    "definition": "n. basic truth, assumption, or rule",
+    "example": "Remember the universal principle: treat others as you want them to treat you.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Prohibit",
+    "definition": "v. to command against, to outlaw",
+    "example": "Alcohol was prohibited in the US in the 1920s.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Prompt",
+    "definition": "adj. punctual, on time\nn. a cue to begin something; instructions\nv. to incite, propel, or cause to act",
+    "example": "She is always prompt when it comes to turning in her homework.\nI had to write an essay based on a prompt.\nThe possibility of a scholarship prompted him to apply to Harvard.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Promulgate",
+    "definition": "v. to put into law or formally declare",
+    "example": "The ruler will at last promulgate an amnesty with the neighboring countries.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Prosecute",
+    "definition": "v. to bring criminal action against someone (in a trial)",
+    "example": "The suspect was prosecuted yesterday.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Provocative",
+    "definition": "adj. intending to provoke, inspire, or arouse",
+    "example": "Her nude paintings are considered quite provocative.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Qualitative",
+    "definition": "adj. involving qualities of something (features and content)",
+    "example": "I noticed a qualitative change in her paintings.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Quantitative",
+    "definition": "adj. involving quantities (numbers and amounts)",
+    "example": "We must conduct a quantitative analysis.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Quirk",
+    "definition": "n. a strange habit",
+    "example": "His biggest quirk is his love of old marbles.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Rash",
+    "definition": "adj. without attention to danger or risk",
+    "example": "Her rash decision to pass the car nearly resulted in a crash.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Raw",
+    "definition": "adj. unrefined\nadj. not processed; uncooked (as in food)",
+    "example": "He’s got raw talent as a singer, but he needs to work on his performance skills.\nIn some countries, such as Japan, it is normal to eat raw fish.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Readily",
+    "definition": "adv. right away and without difficulty",
+    "example": "Water was readily available at different points in the race.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Reconsideration",
+    "definition": "n. thinking again about a previously made choice",
+    "example": "The judges’ reconsideration of her performance resulted in her victory.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Reinforce",
+    "definition": "v. to strengthen or add support to",
+    "example": "We can use these pipes to reinforce the structure.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Reluctantly",
+    "definition": "adv. somewhat unwillingly",
+    "example": "Max reluctantly agreed to see the horror movie with his friends.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Reproach",
+    "definition": "v. to criticize",
+    "example": "The mother reproached her daughter’s school for making students come in during a blizzard.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Retention",
+    "definition": "n. the act of keeping something",
+    "example": "Water retention can make you weigh more on certain days.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Satiated",
+    "definition": "adj. satisfied (usu. in hunger)",
+    "example": "I felt satiated after eating a snack.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Savvy",
+    "definition": "adj. having practical intelligence or knowledge",
+    "example": "My brother is not very savvy when it comes to using public transportation.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Scandalous",
+    "definition": "adj. morally offensive, often causing damage to one’s reputation",
+    "example": "The scandalous politician decided it was best to resign from office.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Scrupulous",
+    "definition": "adj. paying great attention to detail",
+    "example": "I am a scrupulous proofreader and never miss an error.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Secrete",
+    "definition": "v. to produce or release (a substance)",
+    "example": "Trees secrete a sticky substance called sap.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Sentiment",
+    "definition": "n. opinion\nn. a tender or moving gesture",
+    "example": "I am of the sentiment that you should never give out your passwords to anyone.\nEven though I’m not a big fan of porcelain dolls, I appreciated the sentiment.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Sheer",
+    "definition": "adj. so thin that light can shine through",
+    "example": "The curtains on the window were so sheer you could clearly see inside the house.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Simple",
+    "definition": "adj. easy; not complex\nadj. undecorated",
+    "example": "This math problem is so simple even a first grader can solve it.\nThe simple beauty of the ocean is what makes it memorable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Sinister",
+    "definition": "adj. ominous, evil",
+    "example": "Medieval peasants believed sinister demons could harm humans.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Solidarity",
+    "definition": "n. the joining of commonalities or common purposes among a group",
+    "example": "I stood in solidarity with other female students by refusing to wear the school’s sexist uniform.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Spawn",
+    "definition": "v. to release eggs\nv. to call forth or generate",
+    "example": "Frogs typically spawn in ponds.\nThe topic spawned an ongoing debate among his family members.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Spur",
+    "definition": "v. to stimulate or incite",
+    "example": "Her bravery spurred others to act.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Squalid",
+    "definition": "adj. run-down, sordid, or sleazy",
+    "example": "The squalid cabin needed a new roof and an exterminator.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Static",
+    "definition": "adj. motionless\nadj. changeless",
+    "example": "The ball is static.\nHer life has been static for the past three years.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Subordinate",
+    "definition": "adj. lower in rank\nn. someone lower in rank\nv. to make dependent on or put at a lower rank",
+    "example": "The subordinate officers work every day.\nMy subordinate will check you in.\nYou aren’t my boss—you can’t subordinateme to the role of receptionist!",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Subsequently",
+    "definition": "adv. happening later or after something",
+    "example": "I subsequently went home.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Substantiate",
+    "definition": "v. to strengthen with new evidence or facts",
+    "example": "It is important for scientists to substantiatetheir theories whenever possible.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Sufficient",
+    "definition": "adj. enough; just meeting a requirement",
+    "example": "These boxes should be sufficient for our move.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Surly",
+    "definition": "adj. unfriendly; inclined to anger",
+    "example": "The bartender was a surly fellow who wasn’t afraid to start a fight.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Surmount",
+    "definition": "v. to get on top of or overcome",
+    "example": "They managed to surmount the language barrier by using a translation app.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Tactful",
+    "definition": "adj. skilled at dealing with people",
+    "example": "Her tactful attitude toward our class made her one of my favorite teachers.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Taut",
+    "definition": "adj. pulled tight",
+    "example": "The rubberband was taut and ready to be fired.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Teeming",
+    "definition": "adj. abundantly filled (usu. with living organisms)",
+    "example": "Doorknobs are not as clean as they look and are often teeming with germs.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Temperament",
+    "definition": "n. usual mood or feelings",
+    "example": "She had a hostile temperament, making her intimidating to most people.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Transparent",
+    "definition": "adj. see-through; so thin that light can shine through\nadj. truthful or easy to perceive",
+    "example": "Stained window glass isn’t as transparent as regular window glass is.\nShe was transparent about her plans to end her marriage.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Treacherous",
+    "definition": "adj. dangerous and unstable",
+    "example": "The journey was becoming treacherous, but they continued on regardless.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Tremendous",
+    "definition": "adj. very large, good, or bad in degree or size",
+    "example": "Tremendous news! You don’t have to repay your loans!",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Unadorned",
+    "definition": "adj. undecorated, plain",
+    "example": "Though the dress was cheap and unadorned,it was by far her favorite one on the rack.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Undermine",
+    "definition": "v. to weaken or subvert (usu. gradually or secretly)",
+    "example": "Parents should take care not to constantly undermine their children.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Undulate",
+    "definition": "v. to move as ripples or in a wavy pattern",
+    "example": "Belly dancers are known for their ability to skillfully undulate their stomachs.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Unilateral",
+    "definition": "adj. one-sided",
+    "example": "The unilateral decision was deemed unfair by the other party involved.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Unjust",
+    "definition": "adj. unfair; not justified",
+    "example": "The court’s decision is unjust—he should not go free.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Unmitigated",
+    "definition": "adj. downright, utter, total",
+    "example": "My speech was an unmitigated disaster!",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Unprecedented",
+    "definition": "adj. completely new and never having happened before; historic",
+    "example": "The number of protestors was unprecedented.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Unveil",
+    "definition": "v. to make visible; to reveal",
+    "example": "We plan to unveil our plans for the new company project on Sunday.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Urge",
+    "definition": "n. desire or impulse\nv. to encourage or persuade",
+    "example": "He had the urge to tell his parents about his acceptance to Columbia but decided against it.\nShe urged her sister to apply to Stanford.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Viability",
+    "definition": "n. ability to be done in a practical or useful way",
+    "example": "The viability of the solution is questionable.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Vow",
+    "definition": "v. to promise",
+    "example": "My brother quickly broke his vow to never eat chocolate again.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Warrant",
+    "definition": "v. to prove to be reasonable",
+    "example": "Wanting to look cool in front of your friends doesn’t warrant breaking the law.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  },
+  {
+    "word": "Yield",
+    "definition": "n. production of an amount\nv. to give way to or surrender to\nv. to produce or supply",
+    "example": "The farmer’s annual pumpkin yield exceeded 10,000.\nCars turning right on red must yield to oncoming traffic.\nOur experiment yielded many unique-looking vegetables.",
+    "tip": null,
+    "pos": null,
+    "synonyms": null,
+    "antonyms": null,
+    "source": "words - Sheet3.csv"
+  }
+]
