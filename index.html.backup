@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Habbitz Flashcards</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="description" content="Elegant, fast, offline-first flashcards for vocabulary study." />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">🔤</span>
+      <h1>Habbitz Flashcards</h1>
+    </div>
+    <nav class="actions">
+      <button id="btnStudy" class="primary">Study</button>
+      <button id="btnQuiz">Quiz</button>
+      <button id="btnAddWord">Add Word</button>
+      <button id="btnManageDecks">Decks</button>
+      <button id="btnImport">Import</button>
+      <button id="btnExport">Export</button>
+      <button id="btnReset" class="danger" title="Clear local progress">Reset</button>
+    </nav>
+  </header>
+
+  <main class="container">
+    <aside class="sidebar">
+      <div class="panel">
+        <label for="deckSelect">Active Deck</label>
+        <select id="deckSelect"></select>
+        <div class="small muted" id="deckMeta"></div>
+      </div>
+
+      <div class="panel">
+        <label for="search">Search</label>
+        <input id="search" type="search" placeholder="word / def / example" />
+      </div>
+
+      <div class="panel">
+        <h3>Study Filters</h3>
+        <label><input type="checkbox" id="filterDue" checked /> Due only (spaced rep)</label>
+        <label><input type="checkbox" id="filterNew" checked /> Include new words</label>
+        <label><input type="checkbox" id="filterLeech" /> Hide leeches</label>
+        <div class="row">
+          <button id="btnShuffle">Shuffle</button>
+          <button id="btnSortAlpha">A→Z</button>
+        </div>
+      </div>
+
+      <div class="panel tips">
+        <h3>3 Essential Tips</h3>
+        <ol>
+          <li>Keep each card simple: one idea per card.</li>
+          <li>Use memorable context: examples that feel real.</li>
+          <li>Practice actively: recall first, then reveal.</li>
+        </ol>
+        <p class="muted small">These tips guide how cards render and how the spaced repetition works.</p>
+      </div>
+    </aside>
+
+    <section class="workspace">
+      <div id="cardArea" class="card-area">
+        <!-- Flashcard content injected here -->
+      </div>
+      <div id="quizArea" class="quiz-area hidden">
+        <div class="quiz-meta">
+          <span id="quizProgress"></span>
+          <button id="btnNextQuestion">Next</button>
+        </div>
+        <div id="quizQuestion" class="quiz-question"></div>
+        <div id="quizChoices" class="quiz-choices"></div>
+        <div id="quizFeedback" class="quiz-feedback"></div>
+      </div>
+      <div id="tableArea" class="table-area">
+        <table id="wordsTable">
+          <thead>
+            <tr><th>Word</th><th>Definition</th><th>Example</th><th>Tip</th><th>Actions</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <!-- Dialogs -->
+  <dialog id="dlgAddWord">
+    <form method="dialog" class="dialog-form">
+      <h3>Add / Edit Word</h3>
+      <input id="inWord" placeholder="Word" required />
+      <textarea id="inDefinition" placeholder="Definition" required></textarea>
+      <textarea id="inExample" placeholder="Example sentence"></textarea>
+      <input id="inTip" placeholder="Memory tip (optional)" />
+      <div class="row right">
+        <button value="cancel">Cancel</button>
+        <button id="btnSaveWord" class="primary" value="default">Save</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="dlgDecks">
+    <form method="dialog" class="dialog-form">
+      <h3>Manage Decks</h3>
+      <div class="deck-list" id="deckList"></div>
+      <div class="row">
+        <input id="inNewDeck" placeholder="New deck name" />
+        <button id="btnCreateDeck">Create</button>
+      </div>
+      <p class="muted small">Decks are stored locally in your browser. Use Export to share.</p>
+      <div class="row right">
+        <button value="cancel">Close</button>
+      </div>
+    </form>
+  </dialog>
+
+  <input id="fileImport" type="file" accept=".json,.csv" hidden />
+
+  <footer class="foot">
+    <span>Offline‑first • Local storage • GitHub Pages ready</span>
+    <a href="https://sites.google.com/view/habbitz" target="_blank" rel="noopener">Habbitz</a>
+    <a id="downloadData" href="#" download="flashcards-export.json" class="muted small">Download data</a>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
