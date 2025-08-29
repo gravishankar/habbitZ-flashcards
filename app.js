@@ -192,9 +192,12 @@ function getDueWords() {
 
 // Show Waterfall card with sophisticated display
 function showWaterfallCard() {
+    console.log('showWaterfallCard called');
     const currentWord = getCurrentWaterfallWord();
+    console.log('Current word:', currentWord);
+    
     if (!currentWord) {
-        // End of current stack, move to next
+        console.log('No current word, proceeding to next stack');
         proceedToNextWaterfallStack();
         return;
     }
@@ -206,6 +209,7 @@ function showWaterfallCard() {
         const wordPosEl = document.getElementById('word-pos');
         const wordFrequencyEl = document.getElementById('word-frequency');
         
+        console.log('Updating front side elements');
         if (studyWordEl) studyWordEl.textContent = currentWord.word || 'Unknown';
         if (wordDifficultyEl) wordDifficultyEl.textContent = currentWord.difficulty || 'Medium';
         if (wordPosEl) wordPosEl.textContent = currentWord.pos || currentWord.partOfSpeech || 'Word';
@@ -217,6 +221,7 @@ function showWaterfallCard() {
         const studyEtymologyEl = document.getElementById('study-etymology');
         const studySynonymsEl = document.getElementById('study-synonyms');
         
+        console.log('Updating back side elements');
         if (studyDefinitionEl) studyDefinitionEl.textContent = currentWord.definition || 'No definition available';
         if (studyExampleEl) studyExampleEl.textContent = currentWord.example || 'No example available';
         if (studyEtymologyEl) studyEtymologyEl.innerHTML = `<strong>Etymology:</strong> ${currentWord.etymology || 'Not available'}`;
@@ -232,11 +237,14 @@ function showWaterfallCard() {
         const waterfallActions = document.getElementById('waterfall-actions');
         const nextContainer = document.getElementById('next-container');
         
+        console.log('Resetting card state');
         if (studyCard) studyCard.classList.remove('flipped');
         if (waterfallActions) waterfallActions.style.display = 'none';
         if (nextContainer) nextContainer.style.display = 'none';
+        
+        console.log('Card display completed successfully');
     } catch (error) {
-        console.error('Error showing waterfall card:', error);
+        console.error('Error showing waterfall card:', error, currentWord);
     }
 }
 
@@ -335,6 +343,15 @@ function processWaterfallResponse() {
 // Move to next waterfall card
 function nextWaterfallCard() {
     currentSession.currentIndex++;
+    
+    // Check if we've reached the end of current stack
+    const currentStackWords = getCurrentStackWords();
+    if (currentSession.currentIndex >= currentStackWords.length) {
+        console.log('End of current stack, proceeding to next stack');
+        proceedToNextWaterfallStack();
+        return;
+    }
+    
     updateWaterfallProgress();
     showWaterfallCard();
 }
