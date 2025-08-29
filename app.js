@@ -41,7 +41,7 @@ let waterfallState = {
 // Initialize the app
 document.addEventListener('DOMContentLoaded', async function() {
     await loadWords();
-    showScreen('start-screen');
+    showScreen('dashboard-screen');
 });
 
 // Load comprehensive SAT vocabulary database
@@ -468,11 +468,16 @@ function showScreen(screenId) {
     });
     
     // Show target screen
-    document.getElementById(screenId).classList.add('active');
-    
-    // Update dashboard if showing dashboard
-    if (screenId === 'dashboard-screen') {
-        updateDashboard();
+    const targetScreen = document.getElementById(screenId);
+    if (targetScreen) {
+        targetScreen.classList.add('active');
+        
+        // Update dashboard if showing dashboard
+        if (screenId === 'dashboard-screen') {
+            updateDashboard();
+        }
+    } else {
+        console.error(`Screen with ID '${screenId}' not found`);
     }
 }
 
