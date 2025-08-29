@@ -69,13 +69,17 @@ async function loadWords() {
 
 // Initialize spaced repetition data for all words
 function initializeSpacedRepetition() {
-    vocabularyDatabase.forEach(word => {
+    vocabularyDatabase.forEach((word, index) => {
         if (!spacedRepetitionData[word.word]) {
+            // Make first 10 words immediately available for review
+            const isInitialWord = index < 10;
+            const reviewDate = isInitialWord ? new Date() : new Date(Date.now() + 24 * 60 * 60 * 1000); // tomorrow for others
+            
             spacedRepetitionData[word.word] = {
                 interval: 1, // days
                 repetitions: 0,
                 easeFactor: 2.5,
-                nextReviewDate: new Date(),
+                nextReviewDate: reviewDate,
                 lastReviewDate: null,
                 consecutiveCorrect: 0
             };
@@ -163,11 +167,22 @@ function startSpacedRepetition() {
     const dueWords = getDueWords();
     
     if (dueWords.length === 0) {
-        alert('No words are due for review right now! Come back later or start a Waterfall session.');
-        return;
+        // If no words are due, make some words available for first-time users
+        const firstTimeWords = vocabularyDatabase.slice(0, 5);
+        firstTimeWords.forEach(word => {
+            spacedRepetitionData[word.word].nextReviewDate = new Date();
+        });
+        
+        const newDueWords = getDueWords();
+        if (newDueWords.length === 0) {
+            alert('No words are due for review right now! Try the Waterfall Method to learn new words first.');
+            return;
+        }
+        currentSession.words = newDueWords;
+    } else {
+        currentSession.words = dueWords;
     }
     
-    currentSession.words = dueWords;
     currentSession.currentIndex = 0;
     
     showScreen('spaced-screen');
