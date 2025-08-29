@@ -577,16 +577,24 @@ function nextReviewCard() {
 }
 
 function updateSpacedProgress() {
-    document.getElementById('review-position').textContent = currentSession.currentIndex + 1;
-    document.getElementById('review-total').textContent = currentSession.words.length;
-    
-    // Update session timer
-    if (currentSession.sessionStats.startTime) {
-        const elapsed = Math.floor((new Date() - currentSession.sessionStats.startTime) / 1000);
-        const minutes = Math.floor(elapsed / 60);
-        const seconds = elapsed % 60;
-        document.getElementById('session-time').textContent = 
-            `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+    try {
+        const reviewPositionEl = document.getElementById('review-position');
+        const reviewTotalEl = document.getElementById('review-total');
+        const sessionTimeEl = document.getElementById('session-time');
+        
+        if (reviewPositionEl) reviewPositionEl.textContent = currentSession.currentIndex + 1;
+        if (reviewTotalEl) reviewTotalEl.textContent = currentSession.words.length;
+        
+        // Update session timer
+        if (currentSession.sessionStats.startTime && sessionTimeEl) {
+            const elapsed = Math.floor((new Date() - currentSession.sessionStats.startTime) / 1000);
+            const minutes = Math.floor(elapsed / 60);
+            const seconds = elapsed % 60;
+            sessionTimeEl.textContent = 
+                `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+        }
+    } catch (error) {
+        console.error('Error updating spaced progress:', error);
     }
 }
 
@@ -904,21 +912,29 @@ function getCurrentTestQuestion() {
 }
 
 function updateTestProgress() {
-    document.getElementById('test-position').textContent = currentSession.currentIndex + 1;
-    document.getElementById('test-total').textContent = currentSession.words.length;
-    
-    // Update test timer (15 minutes total)
-    if (currentSession.sessionStats.startTime) {
-        const elapsed = Math.floor((new Date() - currentSession.sessionStats.startTime) / 1000);
-        const remaining = Math.max(0, 900 - elapsed); // 15 minutes = 900 seconds
-        const minutes = Math.floor(remaining / 60);
-        const seconds = remaining % 60;
-        document.getElementById('test-timer').textContent = 
-            `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+    try {
+        const testPositionEl = document.getElementById('test-position');
+        const testTotalEl = document.getElementById('test-total');
+        const testTimerEl = document.getElementById('test-timer');
         
-        if (remaining === 0) {
-            endPracticeTest();
+        if (testPositionEl) testPositionEl.textContent = currentSession.currentIndex + 1;
+        if (testTotalEl) testTotalEl.textContent = currentSession.words.length;
+        
+        // Update test timer (15 minutes total)
+        if (currentSession.sessionStats.startTime && testTimerEl) {
+            const elapsed = Math.floor((new Date() - currentSession.sessionStats.startTime) / 1000);
+            const remaining = Math.max(0, 900 - elapsed); // 15 minutes = 900 seconds
+            const minutes = Math.floor(remaining / 60);
+            const seconds = remaining % 60;
+            testTimerEl.textContent = 
+                `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+            
+            if (remaining === 0) {
+                endPracticeTest();
+            }
         }
+    } catch (error) {
+        console.error('Error updating test progress:', error);
     }
 }
 
