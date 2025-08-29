@@ -814,7 +814,12 @@ function pauseSession() {
 
 function endSession() {
     if (confirm('Are you sure you want to end this session?')) {
-        // Reset current session
+        // Update user progress if we have session data
+        if (currentSession.sessionStats.startTime && currentSession.sessionStats.wordsStudied > 0) {
+            updateUserProgressAfterSession();
+        }
+        
+        // Reset current session (but keep user progress)
         currentSession = {
             type: '',
             words: [],
@@ -834,7 +839,7 @@ function endSession() {
             }
         };
         
-        // Return to dashboard
+        // Return to dashboard and update display
         showScreen('dashboard-screen');
     }
 }

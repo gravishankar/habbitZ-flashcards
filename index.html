@@ -176,8 +176,9 @@
                         <span id="review-position">1</span> of <span id="review-total">0</span> due cards
                     </div>
                 </div>
-                <div class="session-timer">
-                    <span id="session-time">00:00</span>
+                <div class="session-controls">
+                    <button class="control-btn" onclick="pauseSession()">⏸️ Pause</button>
+                    <button class="control-btn" onclick="endSession()">🏁 End Session</button>
                 </div>
             </div>
 
@@ -239,10 +240,16 @@
         <!-- Practice Test Screen -->
         <div id="test-screen" class="screen">
             <div class="test-header">
-                <h3>🎯 SAT Practice Test</h3>
                 <div class="test-info">
-                    <span>Question <span id="test-position">1</span> of <span id="test-total">20</span></span>
-                    <span class="test-timer" id="test-timer">15:00</span>
+                    <h3>🎯 SAT Practice Test</h3>
+                    <div class="test-progress">
+                        <span>Question <span id="test-position">1</span> of <span id="test-total">20</span></span>
+                        <span class="test-timer" id="test-timer">15:00</span>
+                    </div>
+                </div>
+                <div class="session-controls">
+                    <button class="control-btn" onclick="pauseSession()">⏸️ Pause</button>
+                    <button class="control-btn" onclick="endSession()">🏁 End Session</button>
                 </div>
             </div>
 
