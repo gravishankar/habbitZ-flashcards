@@ -462,22 +462,33 @@ function updateWaterfallProgress() {
 
 // Show specific screen
 function showScreen(screenId) {
-    // Hide all screens
-    document.querySelectorAll('.screen').forEach(screen => {
-        screen.classList.remove('active');
-    });
-    
-    // Show target screen
-    const targetScreen = document.getElementById(screenId);
-    if (targetScreen) {
-        targetScreen.classList.add('active');
-        
-        // Update dashboard if showing dashboard
-        if (screenId === 'dashboard-screen') {
-            updateDashboard();
+    try {
+        // Wait for DOM to be ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', () => showScreen(screenId));
+            return;
         }
-    } else {
-        console.error(`Screen with ID '${screenId}' not found`);
+        
+        // Hide all screens
+        document.querySelectorAll('.screen').forEach(screen => {
+            screen.classList.remove('active');
+        });
+        
+        // Show target screen
+        const targetScreen = document.getElementById(screenId);
+        if (targetScreen) {
+            targetScreen.classList.add('active');
+            
+            // Update dashboard if showing dashboard
+            if (screenId === 'dashboard-screen') {
+                updateDashboard();
+            }
+        } else {
+            console.error(`Screen with ID '${screenId}' not found. Available screens:`, 
+                Array.from(document.querySelectorAll('[id*="screen"]')).map(el => el.id));
+        }
+    } catch (error) {
+        console.error(`Error in showScreen(${screenId}):`, error);
     }
 }
 
@@ -635,22 +646,31 @@ function createContextualQuestion(word) {
 
 // Dashboard and analytics functions
 function updateDashboard() {
-    // Update main stats
-    document.getElementById('total-mastered').textContent = userProgress.masteredWords.size;
-    document.getElementById('study-streak').textContent = userProgress.studyStreak;
-    
-    // Calculate and display accuracy rate
-    const totalAttempts = userProgress.accuracyHistory.reduce((sum, session) => sum + session.total, 0);
-    const correctAttempts = userProgress.accuracyHistory.reduce((sum, session) => sum + session.correct, 0);
-    const accuracyRate = totalAttempts > 0 ? Math.round((correctAttempts / totalAttempts) * 100) : 0;
-    document.getElementById('accuracy-rate').textContent = `${accuracyRate}%`;
-    
-    // Update due count for spaced repetition
-    const dueCount = getDueWords().length;
-    document.getElementById('due-count').textContent = dueCount;
-    
-    // Generate weekly progress chart
-    generateWeeklyProgress();
+    try {
+        // Update main stats
+        const totalMasteredEl = document.getElementById('total-mastered');
+        const studyStreakEl = document.getElementById('study-streak');
+        const accuracyRateEl = document.getElementById('accuracy-rate');
+        const dueCountEl = document.getElementById('due-count');
+        
+        if (totalMasteredEl) totalMasteredEl.textContent = userProgress.masteredWords.size;
+        if (studyStreakEl) studyStreakEl.textContent = userProgress.studyStreak;
+        
+        // Calculate and display accuracy rate
+        const totalAttempts = userProgress.accuracyHistory.reduce((sum, session) => sum + session.total, 0);
+        const correctAttempts = userProgress.accuracyHistory.reduce((sum, session) => sum + session.correct, 0);
+        const accuracyRate = totalAttempts > 0 ? Math.round((correctAttempts / totalAttempts) * 100) : 0;
+        if (accuracyRateEl) accuracyRateEl.textContent = `${accuracyRate}%`;
+        
+        // Update due count for spaced repetition
+        const dueCount = getDueWords().length;
+        if (dueCountEl) dueCountEl.textContent = dueCount;
+        
+        // Generate weekly progress chart
+        generateWeeklyProgress();
+    } catch (error) {
+        console.error('Error updating dashboard:', error);
+    }
 }
 
 function generateWeeklyProgress() {
@@ -934,6 +954,16 @@ function reviewMissed() {
 
 // Initialize app on load - moved to end to ensure all functions are defined
 document.addEventListener('DOMContentLoaded', async function() {
-    await loadWords();
-    showScreen('dashboard-screen');
+    try {
+        console.log('DOM loaded, initializing app...');
+        await loadWords();
+        console.log('Words loaded, showing dashboard...');
+        
+        // Ensure DOM is fully ready before showing screen
+        setTimeout(() => {
+            showScreen('dashboard-screen');
+        }, 100);
+    } catch (error) {
+        console.error('Error initializing app:', error);
+    }
 });
