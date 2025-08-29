@@ -814,7 +814,28 @@ function pauseSession() {
 
 function endSession() {
     if (confirm('Are you sure you want to end this session?')) {
-        returnToDashboard();
+        // Reset current session
+        currentSession = {
+            type: '',
+            words: [],
+            currentIndex: 0,
+            currentStack: 1,
+            stacks: {
+                new: [],
+                struggled: [],
+                knowIt: [],
+                mastered: []
+            },
+            sessionStats: {
+                wordsStudied: 0,
+                correct: 0,
+                startTime: null,
+                endTime: null
+            }
+        };
+        
+        // Return to dashboard
+        showScreen('dashboard-screen');
     }
 }
 
