@@ -51,99 +51,10 @@ async function loadWords() {
         vocabularyDatabase = await response.json();
     } catch (error) {
         console.error('Error loading words:', error);
-        // Comprehensive SAT vocabulary fallback with sophisticated data structure
-        vocabularyDatabase = [
-            {
-                word: 'Abate',
-                definition: 'to reduce in intensity or degree; to lessen',
-                partOfSpeech: 'verb',
-                difficulty: 'medium',
-                frequency: 'high',
-                etymology: 'From Old French "abatre" meaning "to beat down"',
-                synonyms: ['diminish', 'decrease', 'subside', 'wane'],
-                antonyms: ['intensify', 'increase', 'amplify'],
-                examples: [
-                    'The storm began to abate after midnight.',
-                    'Her anger abated once she understood the situation.',
-                    'The medication helped abate his symptoms.'
-                ],
-                memoryAid: 'A-BATE: A baseball BATTER reduces the pitcher\'s confidence',
-                satContext: 'The hurricane\'s winds began to _____ as it moved inland.',
-                commonMistakes: 'Often confused with "debate" - remember it means to lessen, not argue'
-            },
-            {
-                word: 'Aberrant',
-                definition: 'departing from the normal or typical; deviant',
-                partOfSpeech: 'adjective',
-                difficulty: 'hard',
-                frequency: 'medium',
-                etymology: 'From Latin "aberrare" meaning "to wander away"',
-                synonyms: ['abnormal', 'atypical', 'deviant', 'anomalous'],
-                antonyms: ['normal', 'typical', 'standard', 'conventional'],
-                examples: [
-                    'The scientist studied aberrant behavior in the lab mice.',
-                    'His aberrant driving patterns caught the officer\'s attention.',
-                    'The aberrant test results required further investigation.'
-                ],
-                memoryAid: 'ABER-RANT: ABER (away) + RANT (goes off on tangent) = deviating from normal',
-                satContext: 'The researcher noted several _____ data points that didn\'t fit the expected pattern.',
-                commonMistakes: 'Don\'t confuse with "abhorrent" (disgusting) - aberrant means unusual/deviant'
-            },
-            {
-                word: 'Abridge',
-                definition: 'to shorten while retaining the essential elements; to condense',
-                partOfSpeech: 'verb',
-                difficulty: 'easy',
-                frequency: 'high',
-                etymology: 'From Old French "abregier" meaning "to shorten"',
-                synonyms: ['condense', 'shorten', 'summarize', 'abbreviate'],
-                antonyms: ['expand', 'lengthen', 'elaborate', 'extend'],
-                examples: [
-                    'The editor had to abridge the novel for the magazine.',
-                    'She abridged her speech due to time constraints.',
-                    'The abridged version captured the book\'s main themes.'
-                ],
-                memoryAid: 'A-BRIDGE: A BRIDGE shortens the distance between two points',
-                satContext: 'The publisher decided to _____ the 800-page manuscript to make it more accessible.',
-                commonMistakes: 'Remember it means to shorten thoughtfully, not just cut randomly'
-            },
-            {
-                word: 'Absolve',
-                definition: 'to free from guilt, responsibility, or blame; to pardon',
-                partOfSpeech: 'verb',
-                difficulty: 'medium',
-                frequency: 'medium',
-                etymology: 'From Latin "absolvere" meaning "to set free"',
-                synonyms: ['exonerate', 'acquit', 'pardon', 'forgive'],
-                antonyms: ['blame', 'condemn', 'accuse', 'convict'],
-                examples: [
-                    'The jury decided to absolve him of all charges.',
-                    'She couldn\'t absolve herself of the guilt.',
-                    'The evidence served to absolve the defendant.'
-                ],
-                memoryAid: 'AB-SOLVE: AB (away) + SOLVE (solve the problem) = clear away guilt',
-                satContext: 'The new evidence helped to _____ the suspect of any wrongdoing.',
-                commonMistakes: 'Don\'t confuse with "absorb" - absolve is about clearing guilt, not taking in'
-            },
-            {
-                word: 'Abstain',
-                definition: 'to voluntarily refrain from doing something; to hold oneself back',
-                partOfSpeech: 'verb',
-                difficulty: 'easy',
-                frequency: 'high',
-                etymology: 'From Latin "abstinere" meaning "to hold back"',
-                synonyms: ['refrain', 'forbear', 'resist', 'avoid'],
-                antonyms: ['indulge', 'participate', 'engage', 'partake'],
-                examples: [
-                    'She decided to abstain from voting on the controversial issue.',
-                    'He abstained from alcohol for health reasons.',
-                    'Several members chose to abstain during the ballot.'
-                ],
-                memoryAid: 'AB-STAIN: AB (away) + STAIN (avoid staining yourself) = stay away from',
-                satContext: 'The senator chose to _____ from the vote due to a conflict of interest.',
-                commonMistakes: 'Remember it\'s voluntary - abstaining is a choice, not forced'
-            }
-        ];
+        // Use empty array if words.json fails to load
+        vocabularyDatabase = [];
+        alert('Failed to load vocabulary database. Please refresh the page.');
+        return;
     }
     
     // Initialize spaced repetition data for loaded words
@@ -288,23 +199,45 @@ function showWaterfallCard() {
         return;
     }
     
-    // Update card content with rich data
-    document.getElementById('study-word').textContent = currentWord.word;
-    document.getElementById('word-difficulty').textContent = currentWord.difficulty;
-    document.getElementById('word-pos').textContent = currentWord.partOfSpeech;
-    document.getElementById('word-frequency').textContent = `${currentWord.frequency} frequency`;
-    
-    // Back side content
-    document.getElementById('study-definition').textContent = currentWord.definition;
-    document.getElementById('study-example').textContent = currentWord.examples[0];
-    document.getElementById('study-etymology').innerHTML = `<strong>Etymology:</strong> ${currentWord.etymology}`;
-    document.getElementById('study-synonyms').innerHTML = `<strong>Synonyms:</strong> ${currentWord.synonyms.join(', ')}`;
-    
-    // Reset card state
-    const studyCard = document.getElementById('study-card');
-    studyCard.classList.remove('flipped');
-    document.getElementById('waterfall-actions').style.display = 'none';
-    document.getElementById('next-container').style.display = 'none';
+    try {
+        // Update card content - use actual data structure from words.json
+        const studyWordEl = document.getElementById('study-word');
+        const wordDifficultyEl = document.getElementById('word-difficulty');
+        const wordPosEl = document.getElementById('word-pos');
+        const wordFrequencyEl = document.getElementById('word-frequency');
+        
+        if (studyWordEl) studyWordEl.textContent = currentWord.word || 'Unknown';
+        if (wordDifficultyEl) wordDifficultyEl.textContent = currentWord.difficulty || 'Medium';
+        if (wordPosEl) wordPosEl.textContent = currentWord.pos || currentWord.partOfSpeech || 'Word';
+        if (wordFrequencyEl) wordFrequencyEl.textContent = currentWord.frequency ? `${currentWord.frequency} frequency` : 'High frequency';
+        
+        // Back side content - use actual structure
+        const studyDefinitionEl = document.getElementById('study-definition');
+        const studyExampleEl = document.getElementById('study-example');
+        const studyEtymologyEl = document.getElementById('study-etymology');
+        const studySynonymsEl = document.getElementById('study-synonyms');
+        
+        if (studyDefinitionEl) studyDefinitionEl.textContent = currentWord.definition || 'No definition available';
+        if (studyExampleEl) studyExampleEl.textContent = currentWord.example || 'No example available';
+        if (studyEtymologyEl) studyEtymologyEl.innerHTML = `<strong>Etymology:</strong> ${currentWord.etymology || 'Not available'}`;
+        if (studySynonymsEl) {
+            const synonymsText = currentWord.synonyms 
+                ? (Array.isArray(currentWord.synonyms) ? currentWord.synonyms.join(', ') : currentWord.synonyms)
+                : 'None available';
+            studySynonymsEl.innerHTML = `<strong>Synonyms:</strong> ${synonymsText}`;
+        }
+        
+        // Reset card state
+        const studyCard = document.getElementById('study-card');
+        const waterfallActions = document.getElementById('waterfall-actions');
+        const nextContainer = document.getElementById('next-container');
+        
+        if (studyCard) studyCard.classList.remove('flipped');
+        if (waterfallActions) waterfallActions.style.display = 'none';
+        if (nextContainer) nextContainer.style.display = 'none';
+    } catch (error) {
+        console.error('Error showing waterfall card:', error);
+    }
 }
 
 // Get current word in waterfall session
@@ -500,27 +433,46 @@ function showSpacedCard() {
         return;
     }
     
-    // Update card content
-    document.getElementById('review-word').textContent = currentWord.word;
-    document.getElementById('review-definition').textContent = currentWord.definition;
-    document.getElementById('review-example').textContent = currentWord.examples[0];
-    
-    const wordData = spacedRepetitionData[currentWord.word];
-    document.getElementById('review-number').textContent = wordData.repetitions + 1;
-    
-    const daysSinceLastReview = wordData.lastReviewDate ? 
-        Math.floor((new Date() - new Date(wordData.lastReviewDate)) / (1000 * 60 * 60 * 24)) : 0;
-    document.getElementById('last-interval').textContent = daysSinceLastReview > 0 ? 
-        `${daysSinceLastReview} days ago` : 'First time';
-    
-    // Show memory aid
-    document.getElementById('review-memory').innerHTML = `<strong>Memory Aid:</strong> ${currentWord.memoryAid}`;
-    
-    // Reset card state
-    const reviewCard = document.getElementById('review-card');
-    reviewCard.classList.remove('flipped');
-    document.getElementById('spaced-actions').style.display = 'none';
-    document.getElementById('spaced-next').style.display = 'none';
+    try {
+        // Update card content using actual data structure
+        const reviewWordEl = document.getElementById('review-word');
+        const reviewDefinitionEl = document.getElementById('review-definition');
+        const reviewExampleEl = document.getElementById('review-example');
+        const reviewNumberEl = document.getElementById('review-number');
+        const lastIntervalEl = document.getElementById('last-interval');
+        const reviewMemoryEl = document.getElementById('review-memory');
+        
+        if (reviewWordEl) reviewWordEl.textContent = currentWord.word || 'Unknown';
+        if (reviewDefinitionEl) reviewDefinitionEl.textContent = currentWord.definition || 'No definition';
+        if (reviewExampleEl) reviewExampleEl.textContent = currentWord.example || 'No example available';
+        
+        const wordData = spacedRepetitionData[currentWord.word];
+        if (reviewNumberEl && wordData) reviewNumberEl.textContent = wordData.repetitions + 1;
+        
+        if (lastIntervalEl && wordData) {
+            const daysSinceLastReview = wordData.lastReviewDate ? 
+                Math.floor((new Date() - new Date(wordData.lastReviewDate)) / (1000 * 60 * 60 * 24)) : 0;
+            lastIntervalEl.textContent = daysSinceLastReview > 0 ? 
+                `${daysSinceLastReview} days ago` : 'First time';
+        }
+        
+        // Show memory aid or tip
+        if (reviewMemoryEl) {
+            const memoryText = currentWord.memoryAid || currentWord.tip || 'Try creating your own memory device!';
+            reviewMemoryEl.innerHTML = `<strong>Memory Aid:</strong> ${memoryText}`;
+        }
+        
+        // Reset card state
+        const reviewCard = document.getElementById('review-card');
+        const spacedActions = document.getElementById('spaced-actions');
+        const spacedNext = document.getElementById('spaced-next');
+        
+        if (reviewCard) reviewCard.classList.remove('flipped');
+        if (spacedActions) spacedActions.style.display = 'none';
+        if (spacedNext) spacedNext.style.display = 'none';
+    } catch (error) {
+        console.error('Error showing spaced card:', error);
+    }
 }
 
 function getCurrentSpacedWord() {
@@ -627,16 +579,21 @@ function createContextualQuestion(word) {
     
     // Create distractors (wrong answers) from other words
     const otherWords = vocabularyDatabase
-        .filter(w => w.word !== word.word && w.partOfSpeech === word.partOfSpeech)
+        .filter(w => w.word !== word.word)
         .sort(() => Math.random() - 0.5)
         .slice(0, 3)
         .map(w => w.word);
     
     const options = [correctAnswer, ...otherWords].sort(() => Math.random() - 0.5);
     
+    // Create a contextual sentence using the example or create one
+    const contextSentence = word.example 
+        ? word.example.replace(word.word.toLowerCase(), '_____').replace(word.word, '_____')
+        : `The _____ was evident in the situation.`;
+    
     return {
         originalWord: word,
-        sentence: word.satContext,
+        sentence: contextSentence,
         correctAnswer,
         options,
         definition,
